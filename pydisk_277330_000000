@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE package PUBLIC 
+    "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+    "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+<metadata>
+<dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+<dc:Title>Eros at Nadir: Book 4 of Tales of the Velvet Comet</dc:Title>
+<dc:Creator role="aut" file-as="Resnick, Mike">Mike Resnick</dc:Creator>
+<dc:Subject>Science Fiction/Fantasy</dc:Subject>
+<dc:Publisher>www.Fictionwise.com</dc:Publisher>
+<dc:Date>2001</dc:Date>
+<dc:Type>Short Story</dc:Type>
+<dc:Format>text/html</dc:Format>
+<dc:Language>en-us</dc:Language>
+<dc:Rights>This is a copyrighted work. It is for the use of the original purchaser only. Distributing this work via computer network, file transfer, floppy or other media, or any other method to persons other than the original purchaser is a violation of international copyright law and subjects the violator to severe civil and/or criminal penalties. If you received this work from any source other than Fictionwise.com or an authorized Fictionwise.com affiliate, we ask that you report the violation to info@fictionwise.com. Fictionwise.com offers rewards of up to $500 for information leading to the successful prosecution of copyright violators of any Fictionwise.com work.</dc:Rights>
+<dc:Identifier id="OverDriveGUID" scheme="GUID">{28B79EA1-13E1-11D6-A048-0050045C605E}</dc:Identifier>
+</dc-metadata>
+<x-metadata>
+<meta name="rwver-ReaderWorks SDK Control" content="1.0.0.0807 (08/07/2000)" />
+<meta name="rwver-HTML Input Filter" content="1.0.0.0807 (08/07/2000)" />
+<meta name="rwver-Image Input Filter" content="1.0.0.0807 (08/07/2000)" />
+<meta name="rwver-Text Input Filter" content="1.0.0.0807 (08/07/2000)" />
+<meta name="rwver-LIT file generator" content="1.0.0.0131 (05/10/2000)" />
+<meta name="rw-License Key" content="RWPUB" />
+</x-metadata>
+</metadata>
+<manifest>
+<item id="resnick-eros-nadir" href="resnick-eros-nadir.htm" media-type="text/html" />
+<item id="cr-resnick-eros-nadir" href="cr-resnick-eros-nadir.htm" media-type="text/html" />
+<item id="PocketPCLibraryImage" href="PocketPCLibraryImage.GIF" media-type="image/gif" />
+<item id="big_Resnick-Eros-Nadir" href="big_Resnick-Eros-Nadir.jpg" media-type="image/jpeg" />
+<item id="AboutTitle" href="AboutTitle.htm" media-type="text/html" />
+<item id="CoverPageImage" href="CoverPageImage.GIF" media-type="image/gif" />
+<item id="LibraryImage" href="LibraryImage.GIF" media-type="image/gif" />
+<item id="cvrsml_Resnik-Eros-Nadir" href="cvrsml_Resnik-Eros-Nadir.jpg" media-type="image/jpeg" />
+</manifest>
+<spine>
+<itemref idref="resnick-eros-nadir" />
+</spine>
+<guide>
+<reference type="copyright-page" title="Copyright link" href="cr-resnick-eros-nadir.htm" />
+<reference type="other.ms-thumbimage" title="Pocket PC library image" href="PocketPCLibraryImage.GIF" />
+<reference type="other.ms-coverimage-standard" title="Cover image" href="big_Resnick-Eros-Nadir.jpg" />
+<reference type="title-page" title="About this title link" href="AboutTitle.htm" />
+<reference type="other.ms-titleimage-standard" title="Cover page image" href="CoverPageImage.GIF" />
+<reference type="other.ms-thumbimage-standard" title="Library image" href="LibraryImage.GIF" />
+<reference type="other.ms-coverimage" title="Pocket PC cover image" href="cvrsml_Resnik-Eros-Nadir.jpg" />
+</guide>
+</package>
