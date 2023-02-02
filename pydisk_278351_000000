@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN" "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="DOI-A1416555218">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>Manxome Foe-ARC</dc:Title>
+      <dc:Type>Novel</dc:Type>
+      <dc:Identifier id="ISBN10-A1416555218" scheme="ISBN10-Hardcover">A1-4165-5521-8</dc:Identifier>
+      <dc:Identifier id="ISBN13-978A1416555216" scheme="ISBN13-Hardcover">978-A1-4165-5521-6</dc:Identifier>
+      <dc:Identifier id="DOI-A1416555218" scheme="DOI">10.1125/Baen.1416555218</dc:Identifier>
+      <dc:Publisher>Baen Books</dc:Publisher>
+      <dc:Creator role="aut" file-as="Ringo, John">John Ringo</dc:Creator>
+      <dc:Creator role="aut" file-as="Taylor, Travis S.">Travis S. Taylor</dc:Creator>
+      <dc:Contributor role="art" file-as="Miller, Kurt">Kurt Miller</dc:Contributor>
+      <dc:Subject>Science Fiction</dc:Subject>
+      <dc:Rights>2008 by John Ringo &amp;amp; Travis S. Taylor</dc:Rights>
+      <dc:Date>2008-02-01</dc:Date>
+      <dc:Language>US English (en-us)</dc:Language>
+    </dc-metadata>
+    <x-metadata>
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <item id="content" href="A1416555218__p_.htm" media-type="text/x-oeb1-document" />
+    <item id="toc" href="A1416555218_top.htm" media-type="text/x-oeb1-document" />
+    <item id="coverstandard" href="A1416555218_Cover.jpg" media-type="image/jpeg" />
+    <item id="thumbstandard" href="A1416555218_Library.jpg" media-type="image/jpeg" />
+    <item id="titlestandard" href="A1416555218_Title.jpg" media-type="image/jpeg" />
+    <item id="cover" href="A1416555218_PCCover.jpg" media-type="image/jpeg" />
+    <item id="thumb" href="A1416555218_PCLibrary.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine>
+    <itemref idref="content" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="A1416555218_top.htm" />
+    <reference type="copyright-page" title="Copyright" href="A1416555218__p_.htm" />
+    <reference type="title-page" title="Title Page" href="A1416555218__p_.htm" />
+    <reference type="other.ms-firstpage" title="first page" href="A1416555218__p_.htm#Chap_1" />
+    <reference type="other.ms-coverimage-standard" title="cover image standard" href="A1416555218_Cover.jpg" />
+    <reference type="other.ms-thumbimage-standard" title="thumb image standard" href="A1416555218_Library.jpg" />
+    <reference type="other.ms-coverimage" title="PPC cover image" href="A1416555218_PCCover.jpg" />
+    <reference type="other.ms-thumbimage" title="PPC thumb image" href="A1416555218_PCLibrary.jpg" />
+  </guide>
+</package>
