@@ -1,0 +1,190 @@
+	body,
+	html {
+		margin:0;
+		padding:0;
+		color:#000;
+	}
+
+	body {
+		
+background-color:#B7BBF3;
+background-image: url('http://www.hardsf.net/images/background.jpg');
+	}
+
+	#wrap {
+		background:transparent;
+		margin:0 auto;
+		width:92%;
+		
+	}
+	#header {
+		background:transparent;
+		padding:5px;
+		width:95%;
+	    	margin:0;
+		font-family: verdana 10px;
+	}
+	
+	#nav {
+	background-color: transparent;
+	padding: 3px; 
+	}
+
+	#nav ul{
+list-style: none;
+margin: 0; padding: 0; 
+
+	}
+
+	#nav li{
+display:inline;	
+background-color: #684EBC;
+border:1px solid #1f0546;
+margin: 0; padding: 2px; 
+
+	}
+
+#nav ul li:hover{
+margin: 0; padding: 2px;
+border:1px solid #1f0546;
+background-color: #D9ACE6;
+color: #865AC8;
+}
+
+ /* Styles the link within the button. */
+#nav ul li a{
+color: #ffffff;
+text-decoration: none;
+}
+
+ /* Gives the link a hover-effect. */
+#nav ul li a: hover {
+color: #ffffff;
+}
+
+
+	#main {
+	border:2px solid #51388f;
+	background-color:#E3E5F7;
+	padding:20px;
+	float:left;
+	width:95%;
+	
+	
+	}
+	
+
+	table.tablelist { border:1px solid #a9a9a9;padding:5px;}
+
+	#sidebar {
+		border:1px solid white;
+		background-color:#eeeeee;
+		float:right;
+		font-family:verdana 10px;
+		width:17%;	
+	
+	}
+
+	#sidebar ul {
+		margin-bottom:0;
+    }
+    
+#sidebar p br {font-family:verdana 10px;}
+
+	#footer {
+		background:transparent;
+		clear:both;
+	text-align:center;
+	color:#24296f;
+	}
+	#footer p {
+		font-family:verdana;
+		padding:5px;
+		margin:0;
+	font-size:70%;
+    }
+
+p {
+
+font:12px verdana, arial, helvetica, sans-serif;
+line-height: 1.4em; 
+padding: 0 0 .5em 0;
+}
+
+td.hsf {
+font:12px verdana, arial, helvetica, sans-serif;
+line-height: 1.4em; 
+padding: 0 0 0 0;
+}
+
+
+#main>p {margin:0px;}
+/* #main>p+p {text-indent:15px;} */
+
+h1 {
+	margin:0px 0px 15px 0px;
+	padding:0px;
+	font-size:20px;
+	font-weight:900;
+	color:#ccc;
+	}
+
+h3 {
+background-color: #684EBC;
+opacity:.65;
+font: 13px verdana, sans-serif;
+text-transform:uppercase;
+color: #ffffff;
+margin: 0 0 0 0; padding: 2px;
+font-weight:bold;
+}
+
+author {
+font: 2.0em verdana, sans-serif;
+
+color: #363636;
+
+}
+
+h2 {
+	font:bold 12px/14px verdana, arial, helvetica, sans-serif;
+	margin:0px 0px 5px 0px;
+	padding:0px;
+	}
+
+a {
+color:rgb(20,20,220);
+font-family:verdana, arial, helvetica, sans-serif;}
+
+.menu {
+border:1px solid #1f0546;
+background-color: #E6DCF0;
+color: #000000;
+text-decoration: none;
+padding:2px;
+}
+
+/* style for frame around image */
+.imgframe {border: 8px solid #935697; }
+
+
+/* javascript style for frame shadow */
+.shadow{
+border:1px solid silver;
+font:10pt arial;
+position:relative;
+display:inline;
+background:white;
+z-index:100
+}
+
+.shadow_inner{
+overflow:hidden;
+position:absolute;
+top: -1000px;
+filter:alpha(Opacity=10); /*modify to change the shade solidity/opacity, same as below*/
+opacity:0.1; /*firefox 1.5 opacity*/
+-moz-opacity:0.1; /*mozilla opacity*/
+-khtml-opacity:0.1; /*opacity*/
+z-index:10
+}
