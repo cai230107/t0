@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>StateoftheUnion</dc:Title> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{66FCAC23-2E64-4FE9-8209-7D7EB0D25865}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="StateoftheUnion" href="StateoftheUnion.html" media-type="text/html" />
+  <item id="RW_~cov0016" href="~cov0016.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0014" href="~cov0014.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0018" href="~cov0018.htm" media-type="text/html" />
+  <item id="RW_~cov0015" href="~cov0015.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0013" href="~cov0013.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0017" href="~cov0017.jpg" media-type="image/jpeg" />
+  <item id="logo" href="logo.jpg" media-type="image/jpeg" />
+  <item id="fm" href="fm.jpg" media-type="image/jpeg" />
+  <item id="halftitle" href="halftitle.jpg" media-type="image/jpeg" />
+  <item id="pdlmsr" href="pdlmsr.css" media-type="text/css" />
+  <item id="space" href="space.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="StateoftheUnion" />
+ </spine>
+ <guide>
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="~cov0016.jpg" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="~cov0014.jpg" />
+  <reference type="title-page" title="About this title link" href="~cov0018.htm" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="~cov0015.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="~cov0013.jpg" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="~cov0017.jpg" />
+ </guide>
+</package>
