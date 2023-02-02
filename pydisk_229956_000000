@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>How to make Unicorn Pie</dc:Title> 
+   <dc:Creator role="aut" file-as="Friesner, Esther">Esther Friesner</dc:Creator> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{593AE290-0DA4-4362-A076-BBD2ADA20736}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="Esther_M._Friesner_-_How_to_Make_Unicorn_Pie" href="Esther M. Friesner - How to Make Unicorn Pie.htm" media-type="text/html" />
+  <item id="RW_~cov0003" href="~cov0003.jpg" media-type="image/jpeg" />
+  <item id="Fantasy_Cover" href="Fantasy Cover.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0005" href="~cov0005.htm" media-type="text/html" />
+  <item id="RW_~cov0002" href="~cov0002.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0001" href="~cov0001.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0004" href="~cov0004.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="Esther_M._Friesner_-_How_to_Make_Unicorn_Pie" />
+ </spine>
+ <guide>
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="~cov0003.jpg" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="Fantasy Cover.jpg" />
+  <reference type="title-page" title="About this title link" href="~cov0005.htm" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="~cov0002.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="~cov0001.jpg" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="~cov0004.jpg" />
+ </guide>
+</package>
