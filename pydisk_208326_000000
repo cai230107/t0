@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>C J Cherryh - Faded Sun 1 - Kesrith</dc:Title> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{54BAC638-D1F8-4D6E-A817-3D5DD16004F0}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks SDK Control" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-HTML Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-Image Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-Text Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-LIT file generator" content="1.0.0.0131 (05/10/2000)" />
+   <meta name="rw-License Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="C_J_Cherryh_-_Faded_Sun_Trilogy" href="C J Cherryh - Faded Sun Trilogy.htm" media-type="text/html" />
+  <item id="C_J_Cherryh_-_Faded_Sun_1_-_Kesrith" href="C J Cherryh - Faded Sun 1 - Kesrith.htm" media-type="text/html" />
+  <item id="~cov0016" href="~cov0016.jpg" media-type="image/jpeg" />
+  <item id="~cov0014" href="~cov0014.jpg" media-type="image/jpeg" />
+  <item id="~cov0018" href="~cov0018.htm" media-type="text/html" />
+  <item id="~cov0015" href="~cov0015.jpg" media-type="image/jpeg" />
+  <item id="~cov0013" href="~cov0013.jpg" media-type="image/jpeg" />
+  <item id="~cov0017" href="~cov0017.jpg" media-type="image/jpeg" />
+  <item id="C_J_Cherryh_-_Faded_Sun_Trilogy1" href="C J Cherryh - Faded Sun Trilogy.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="C_J_Cherryh_-_Faded_Sun_Trilogy" />
+  <itemref idref="C_J_Cherryh_-_Faded_Sun_1_-_Kesrith" />
+ </spine>
+ <guide>
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="~cov0016.jpg" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="~cov0014.jpg" />
+  <reference type="title-page" title="About this title link" href="~cov0018.htm" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="~cov0015.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="~cov0013.jpg" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="~cov0017.jpg" />
+ </guide>
+</package>
