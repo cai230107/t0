@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Document//EN" "http://openebook.org/dtds/oeb-1.0.1/oebdoc101.dtd">
+<html  lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>  - Chapter 32</title>
+<style type="text/css">
+  p {text-indent:2em;margin-top:0;margin-bottom:2px}
+</style>
+
+<meta name="Publisher" content="Baen Books http://www.baen.com" />
+<meta name="Copyright" content="2004 by Joel Rosenberg" />
+<meta name="author" content="Joel Rosenberg" />
+<style id="BaenStyle" type="text/css">
+h1 {page-break-before:left}
+</style>
+
+<script language="JavaScript"><!--
+if (parent.control != null)
+  if (typeof(parent.control.mainLoad) == "function")
+    parent.control.mainLoad(document);
+function PNo(PgNo) {
+if (parent.control != null)
+  if (typeof(parent.control.SetPage) == "function")
+    parent.control.document.forms[0].PageNo.value = PgNo;
+}
+//--></script>
+
+</head>
+
+<body >
+<p align="right"><a href="0743488296__31.htm">Back</a> | <a href="0743488296__33.htm">Next</a><br /><a href="0743488296_toc.htm">Contents</a></p>
+<h1 align="right"><a name="Chap_32"></a><b>The Warrior Lives</b><br /><b>Vol. 5&#160;</b><br /><b>The Guardians&#160;</b><br /><b><i>of the Flame&#160;</i></b><br /></h1>
+<h3 align="center"><b>For Sprague and Catherine,</b><br /><b>role models</b></h3>
+<h3 align="center"><b>Acknowledgments</b></h3>
+<blockquote>
+<a id="p3558" name="p3558"></a><p onmouseover="PNo(3558)" style="text-indent:0">I'd like to thank the people who helped: Will Shetterly and Emma Bull, who found me the place to finish this book; Pamela Dean and Nate Bucklin, for the last-minute proofreading; the rest of the Minneapolis SF crowd, for reasons both trivial and profound; Mark J. McGarry, who made it better, again; Felix Tang and John Jaser and the other good folks at Logix Microcomputer; Scott Raun, who quibbled a bit; Harry Leonard, who quibbled a lot; my editor, John Silbersack; my wife, Felicia; and always, particularly, my agent, Eleanor Wood.</p>
+</blockquote>
+<a id="p3559" name="p3559"></a><p onmouseover="PNo(3559)">&#160;</p>
+<h2 align="center"><b>PRELUDE</b></h2>
+<h3 align="center"><b><i>Laheran</i></b></h3>
+<blockquote>
+<a id="p3560" name="p3560"></a><p onmouseover="PNo(3560)" style="text-indent:0"><i>Every man is like the company he is wont to keep.&#160;</i>&nbsp;</p>
+<a id="p3561" name="p3561"></a><p onmouseover="PNo(3561)" align="right" style="text-indent:0">&#151;Euripides</p>
+</blockquote>
+<a id="p3562" name="p3562"></a><p onmouseover="PNo(3562)">&#160;</p>
+<a id="p3563" name="p3563"></a><p onmouseover="PNo(3563)">&#160;</p>
+<a id="p3564" name="p3564"></a><p onmouseover="PNo(3564)">"You have to find him," said Slavers' Guildmaster Yryn. "You have to stop him."</p>
+<a id="p3565" name="p3565"></a><p onmouseover="PNo(3565)">Yryn looked old, and stoop-shouldered. His neck seemed to have trouble holding up his massive head, and his eyes were more of a dull gray than the sharp, piercing slate-gray that Laheran remembered from his apprenticeship in the guild.</p>
+<a id="p3566" name="p3566"></a><p onmouseover="PNo(3566)">As they walked through the garden, Yryn fondled the piece of sun-bleached leather, his nail-bitten fingers stroking it as if it were a magical talisman, which it wasn't.</p>
+<a id="p3567" name="p3567"></a><p onmouseover="PNo(3567)">There was little enough in the world to be sure of, Laheran thought, but the leather wasn't magical. It had been carefully examined by a competent wizard, a master in Pandathaway's Wizards' Guild, and while the wizards couldn't always be relied on&#151;they were notorious cowards, for one thing&#151;they could be trusted to know if something was magical.</p>
+<a id="p3568" name="p3568"></a><p onmouseover="PNo(3568)">The inner courtyard of Slavers' Guildhall was a quiet place, one for reflection. Marble benches surrounded a lawn that was always ankle-height, the garden guarded by cornered hedges, the precision of it all maintained each night by scissor-wielding slaves working under smoky torchlight.</p>
+<a id="p3569" name="p3569"></a><p onmouseover="PNo(3569)">Except for the flowers. A gardener, fealty-bound to the guild, had the responsibility for their care. Flowers were different, Laheran thought, as he bent to sniff the rich fragrance of a blood-red rose. They required loving attention, not just fearful care.</p>
+<a id="p3570" name="p3570"></a><p onmouseover="PNo(3570)">Laheran liked the garden. It was the one quiet place in the city, the only place he could get completely away from the noise and the bustle and the smells of Pandathaway.</p>
+<a id="p3571" name="p3571"></a><p onmouseover="PNo(3571)">"You have to stop Karl Cullinane," the guildmaster said, as though Laheran hadn't heard him.</p>
+<a id="p3572" name="p3572"></a><p onmouseover="PNo(3572)">"You said that." Laheran held up an admonishing finger, hoping that Yryn would slap him down for his insolence, silently begging the guildmaster to assert his authority.</p>
+<a id="p3573" name="p3573"></a><p onmouseover="PNo(3573)">But the older man just nodded.</p>
+<a id="p3574" name="p3574"></a><p onmouseover="PNo(3574)">Laheran could have cried. The guildmaster was losing his grip on himself. Could his grip on the guild be far behind?</p>
+<a id="p3575" name="p3575"></a><p onmouseover="PNo(3575)">It was a bad time to be leaving Pandathaway. Perhaps Laheran oughtn't have any delusions about having a chance at the guildmastership&#151;there had never been a guildmaster in his twenties, and damned few in their thirties&#151;but as the youngest full master in the guild, it wasn't at all impossible that he could have some impact on the outcome of the contention.</p>
+<a id="p3576" name="p3576"></a><p onmouseover="PNo(3576)">If there was to be a contention. Perhaps what the guild needed now was stability, even if that meant that somebody would have to be the power behind the throne.</p>
+<a id="p3577" name="p3577"></a><p onmouseover="PNo(3577)">Laheran held out his hand to accept the piece of leather. It was about two handbreadths across, not of terribly high quality, probably cut from a leather food sack of some sort.</p>
+<a id="p3578" name="p3578"></a><p onmouseover="PNo(3578)">There was writing on the rough surface; Laheran recognized it as dried blood. He couldn't make out most of the writing, although he suspected it was in that Englits that Karl Cullinane and his friends were turning into a common trade language throughout the Eren regions and beyond.</p>
+<a id="p3579" name="p3579"></a><p onmouseover="PNo(3579)">But below the scratchings that he couldn't decipher, there were the words he could:</p>
+<a id="p3580" name="p3580"></a><p onmouseover="PNo(3580)"><i>The warrior lives, </i>they said. Beneath were three crude drawings: a sword, an ax, and a knife&#151;a threat that Cullinane would kill them with whatever was handy.</p>
+<a id="p3581" name="p3581"></a><p onmouseover="PNo(3581)">It was the third such piece of leather Laheran had seen. The first he himself had brought back from Melawei; it had been pinned to the corpse of a brother slaver, a man who had been split with an ax from his brow almost to his waist.</p>
+<a id="p3582" name="p3582"></a><p onmouseover="PNo(3582)">The second had been discovered in Ehvenor, tied to the hilt of a sword that had been struck through three bodies; the killers had either discovered the slavers in a dark alley or drawn them into it, leaving them behind dead, dead, and dead.</p>
+<a id="p3583" name="p3583"></a><p onmouseover="PNo(3583)">This third one had been found in Lundeyll, in a rented room at an inn there, again pinned to the corpse of a slaver, this time by a knife that projected from the dead man's open mouth like a bloodied metal tongue. Nimyn was his name; Laheran knew him slightly. He was a journeyman on a routine trading mission, traveling down the coast toward Ehvenor with a string of a dozen well-tamed male slaves, most of whom were born into servitude. There were two other slavers with Nimyn, but they were left alone.</p>
+<a id="p3584" name="p3584"></a><p onmouseover="PNo(3584)">The guildmaster finally put it as a question. "Will you find him? Stop him?"</p>
+<a id="p3585" name="p3585"></a><p onmouseover="PNo(3585)">"Yes," Laheran said, stooping to pick a rose, twisting the stem loose from the bush with deft fingers that managed to avoid the thorns. He fixed it to the collar of his cloak with a long silver pin.</p>
+<a id="p3586" name="p3586"></a><p onmouseover="PNo(3586)">He wished he had a mirror with him; he was pleased with the way he looked. He knew what he would have seen: a tall, slim, elegant young man in blue and gray, his hair the color of autumn flax, his short, neatly-trimmed beard only a few shades darker. A light, crimson cloak&#151;more of a cape, really&#151;fastened with a braided silver rope, hung elegantly from his right shoulder, the cut of his tunic and mid-calf breeches more elegant, more careful than was usual among guildsmen.</p>
+<a id="p3587" name="p3587"></a><p onmouseover="PNo(3587)">He rested his palm for a moment on the hilt of his sword, striking a pose. He knew he looked somewhat younger than his twenty-five years, and knew that his age and his foppishness tempted others to either underrate or overrate him. That suited him.</p>
+<a id="p3588" name="p3588"></a><p onmouseover="PNo(3588)">"I believe that I will," he said finally. "What resources do I have?"</p>
+<a id="p3589" name="p3589"></a><p onmouseover="PNo(3589)">"Come with me," the guildmaster said.</p>
+<a id="p3590" name="p3590"></a><p onmouseover="PNo(3590)">The two of them passed into the dark cool of the marble halls.</p>
+<a id="p3591" name="p3591"></a><p onmouseover="PNo(3591)">The walls were spotless and the floors only barely dirtied by the day's traffic, but there was a strange smell in the halls&#151;beyond the usual stink of human sweat, of pain and fear&#151;that never could be scrubbed out of the tiles. Whip a slave to death&#151;although with the economics of slavery these days, that was the luxury of a bygone era&#151;and he would leave his smell not only on the rough stone walls where you chained him, but throughout the rest of the hall.</p>
+<a id="p3592" name="p3592"></a><p onmouseover="PNo(3592)">But there was something else. As the two slavers passed by an open door, the scribes working at their desks in the room looked up, a quick flash of panic passing across their faces.</p>
+<a id="p3593" name="p3593"></a><p onmouseover="PNo(3593)">This was Slavers' Guildhall; there should have been no trace of fear on the face of a guildsman.</p>
+<a id="p3594" name="p3594"></a><p onmouseover="PNo(3594)">But there was: the place also stank of slaver's fear.</p>
+<a id="p3595" name="p3595"></a><p onmouseover="PNo(3595)">It somehow smelled different than the fear of a slave.</p>
+<a id="p3596" name="p3596"></a><p onmouseover="PNo(3596)">They all feared that Karl Cullinane would come for them, and not just outside, somewhere in the field. That would have been different. That was frightening, but acceptable. You had to learn to look over your shoulder when you were away. Raiding or trading, you had to sleep lightly, listening for the quiet patter of unshod feet on deck, the muffled whisper of a sword leaving its scabbard, the snick of a cocked hammer.</p>
+<a id="p3597" name="p3597"></a><p onmouseover="PNo(3597)">No, it wasn't only an assault in the field they feared now, but one in the guildhall itself.</p>
+<a id="p3598" name="p3598"></a><p onmouseover="PNo(3598)">Laheran followed Yryn upstairs into the master's meeting room, where ten men sat around the wide oak table.</p>
+<a id="p3599" name="p3599"></a><p onmouseover="PNo(3599)">None of them were master slavers, but they were all reliable journeymen, most of them well scarred: tough and blooded, men who made their business as raiders and tamers, not just as sellers.</p>
+<a id="p3600" name="p3600"></a><p onmouseover="PNo(3600)">The guildmaster introduced him around the table; Laheran exchanged guild grips with each man in turn. And each man in turn gripped Laheran's hand just a bit too hard, as though grabbing for reassurance, not simply confirming Laheran's guild membership, or returning his courtesy.</p>
+<a id="p3601" name="p3601"></a><p onmouseover="PNo(3601)">"I can have a hundred more men for you in two tendays," the guildmaster said.</p>
+<a id="p3602" name="p3602"></a><p onmouseover="PNo(3602)">Laheran shook his head. "No. The guild has tried that before. A small group this time, with a small, fast ship. We'll go quietly from Pandathaway, not loudly announcing who we are. We take his trail, find him, and kill him." There was no great rush. If it was possible to catch Cullinane&#151;and it had to be possible to catch Cullinane&#151;then Cullinane was headed north.</p>
+<a id="p3603" name="p3603"></a><p onmouseover="PNo(3603)">Possibly by way of Pandathaway and the guildhall? No, that was unlikely. There were too many defenses, both physical and magical, at Slavers' Guildhall. Cullinane wouldn't be able to get in here.</p>
+<a id="p3604" name="p3604"></a><p onmouseover="PNo(3604)">But, conceivably, he would stop off in Pandathaway and kill a slaver or two, hunt them down outside the guildhall. And that could work to Laheran's advantage: the larger the monster, the larger the reward for killing it.</p>
+<a id="p3605" name="p3605"></a><p onmouseover="PNo(3605)">Laheran eyed them all levelly. "We will find Karl Cullinane, and we will kill him."</p>
+<a id="p3606" name="p3606"></a><p onmouseover="PNo(3606)"><i>The warrior lives, </i>indeed. Perhaps Laheran was younger than all previous guildmasters, but perhaps that wouldn't matter if Laheran killed Karl Cullinane.</p>
+<a id="p3607" name="p3607"></a><p onmouseover="PNo(3607)">He smiled at Guildmaster Yryn.</p>
+<a id="p3608" name="p3608"></a><p onmouseover="PNo(3608)">"Leave it all in my hands," he said.</p>
+<a id="p3609" name="p3609"></a><p onmouseover="PNo(3609)">&#160;</p>
+<a id="p3610" name="p3610"></a><p onmouseover="PNo(3610)">&#160;</p>
+<p align="right"><a href="0743488296__31.htm">Back</a> | <a href="0743488296__33.htm">Next</a><br /><a href="0743488296_toc.htm">Contents</a>
+<br /><a href="0743488296.htm" target="_top">Framed</a></p>
+
+</body>
+</html>
