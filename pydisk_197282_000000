@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Bored of the Rings</dc:Title> 
+   <dc:Creator>Henry N. Beard and Douglas C. Kenney of the Harvard Lampoon</dc:Creator> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{6EE8FD99-3A69-48B4-A23A-BD5D64216AEF}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks SDK Control" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-HTML Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-Image Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-Text Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-LIT file generator" content="1.0.0.0131 (05/10/2000)" />
+   <meta name="rw-License Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="Harvard_Lampoon_-_Bored_of_the_Rings" href="Harvard_Lampoon_-_Bored_of_the_Rings.htm" media-type="text/html" />
+  <item id="ppclib" href="ppclib.jpg" media-type="image/jpeg" />
+  <item id="bored" href="bored.jpg" media-type="image/jpeg" />
+  <item id="~cov0001" href="~cov0001.htm" media-type="text/html" />
+  <item id="side" href="side.jpg" media-type="image/jpeg" />
+  <item id="lib" href="lib.jpg" media-type="image/jpeg" />
+  <item id="ppccov" href="ppccov.jpg" media-type="image/jpeg" />
+  <item id="namtillaku" href="namtillaku.gif" media-type="image/gif" />
+ </manifest>
+ <spine>
+  <itemref idref="Harvard_Lampoon_-_Bored_of_the_Rings" />
+ </spine>
+ <guide>
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="ppclib.jpg" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="bored.jpg" />
+  <reference type="title-page" title="About this title link" href="~cov0001.htm" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="side.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="lib.jpg" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="ppccov.jpg" />
+ </guide>
+</package>
