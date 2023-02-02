@@ -1,0 +1,130 @@
+h2.chp
+{
+  font-family: serif;
+  font-size: x-large;
+  font-weight: bold;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-top: 4.0em;
+  margin-bottom: 2.0em;
+  text-align: center ;
+}
+
+p.para-center
+{
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: center;
+}
+
+p.image-center
+{
+  text-indent: 0em;
+  margin-bottom: 0em;
+  text-align: center;
+}
+
+p.dedication
+{
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: center;
+}
+
+p.para-indent
+{
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 2.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+p.pause-space
+{
+  margin-top: 0em;
+  margin-bottom: 0em;
+  text-align: center;
+}
+
+p.para-flush
+{
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+p.extract-flush
+{
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+p.extract-ragged-left
+{
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0em;
+  margin-left: 0em;
+  margin-right: 0.0em;
+  text-align: right;
+}
+
+p.pause-image
+{
+  margin-top: 0em;
+  margin-bottom: 0em;
+  text-align: center;
+}
+
+span.dropcap
+{
+font-size: xx-large;
+}
+
+span.smallcap
+{
+  font-size: xx-small;
+}
+
+b
+{
+  font-weight: bold;
+}
+
+i
+{
+  font-style: italic;
+}
+
+div.pagebreak
+{
+  page-break-before: always;
+}
