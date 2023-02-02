@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE package PUBLIC 
+    "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+    "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+<metadata>
+<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+<dc:Title>The Dark Tower V</dc:Title>
+<dc:Creator file-as="Stephen King" role="aut">Stephen King</dc:Creator>
+<dc:Publisher>Donald M. Grant, Publisher, Inc.</dc:Publisher>
+<dc:Date>2003</dc:Date>
+<dc:Type>fiction</dc:Type>
+<dc:Format>text/html</dc:Format>
+<dc:Identifier id="isbn">ISBN 0-7432-5510-0</dc:Identifier>
+<dc:Source>PDF</dc:Source>
+<dc:Language>en-us</dc:Language>
+<dc:Language>en</dc:Language>
+<dc:Relation>None</dc:Relation>
+<dc:Coverage>None</dc:Coverage>
+<dc:Rights>Copyright &#169; 2003 by Stephen King</dc:Rights>
+<dc:Identifier id="OverDriveGUID" scheme="GUID">{C68ADD12-0B78-11D8-A2B8-0050BAB0F1D4}</dc:Identifier>
+</dc-metadata>
+<x-metadata>
+<meta name="ms-chaptertour" content="chaptertour" />
+<meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+<meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+<meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+<meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+<meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+<meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+<meta name="rw-License-Key" content="RWPUB" />
+</x-metadata>
+</metadata>
+<manifest>
+<item id="DarkTowerV,The" href="DarkTowerV,The.html" media-type="text/html" />
+<item id="RW_~cov0029" href="~cov0029.jpg" media-type="image/jpeg" />
+<item id="contents" href="contents.html" media-type="text/html" />
+<item id="MSRCover" href="MSRCover.jpg" media-type="image/jpeg" />
+<item id="RW_~cov0028" href="~cov0028.jpg" media-type="image/jpeg" />
+<item id="MSRThumb" href="MSRThumb.jpg" media-type="image/jpeg" />
+<item id="RW_~cov0030" href="~cov0030.jpg" media-type="image/jpeg" />
+<item id="RW_09" href="09.jpg" media-type="image/jpeg" />
+<item id="halftitle" href="halftitle.jpg" media-type="image/jpeg" />
+<item id="RW_10" href="10.jpg" media-type="image/jpeg" />
+<item id="RW_11" href="11.jpg" media-type="image/jpeg" />
+<item id="RW_33" href="33.jpg" media-type="image/jpeg" />
+<item id="xix" href="xix.jpg" media-type="image/jpeg" />
+<item id="pdlmsr" href="pdlmsr.css" media-type="text/css" />
+<item id="RW_12" href="12.jpg" media-type="image/jpeg" />
+<item id="RW_01" href="01.jpg" media-type="image/jpeg" />
+<item id="RW_473" href="473.jpg" media-type="image/jpeg" />
+<item id="RW_02" href="02.jpg" media-type="image/jpeg" />
+<item id="RW_330" href="330.jpg" media-type="image/jpeg" />
+<item id="RW_03" href="03.jpg" media-type="image/jpeg" />
+<item id="RW_04" href="04.jpg" media-type="image/jpeg" />
+<item id="RW_199" href="199.jpg" media-type="image/jpeg" />
+<item id="RW_597" href="597.jpg" media-type="image/jpeg" />
+<item id="RW_05" href="05.jpg" media-type="image/jpeg" />
+<item id="logo" href="logo.jpg" media-type="image/jpeg" />
+<item id="RW_06" href="06.jpg" media-type="image/jpeg" />
+<item id="fm" href="fm.jpg" media-type="image/jpeg" />
+<item id="RW_07" href="07.jpg" media-type="image/jpeg" />
+<item id="xviii" href="xviii.jpg" media-type="image/jpeg" />
+<item id="RW_08" href="08.jpg" media-type="image/jpeg" />
+</manifest>
+<spine>
+<itemref idref="DarkTowerV,The" />
+</spine>
+<tours>
+<tour id="chaptertour" title="Chapter Tour">
+<site title="The Final Argument" href="DarkTowerV,The.html#fm_1" />
+<site title="PrologueRoont" href="DarkTowerV,The.html#fm_2" />
+<site title="Part OneTodash" href="DarkTowerV,The.html#p_1" />
+<site title="I: The Face on the Water" href="DarkTowerV,The.html#p1_ch_1" />
+<site title="II: New York Groove" href="DarkTowerV,The.html#p1_ch_2" />
+<site title="III: Mia" href="DarkTowerV,The.html#p1_ch_3" />
+<site title="IV: Palaver" href="DarkTowerV,The.html#p1_ch_4" />
+<site title="V: Overholser" href="DarkTowerV,The.html#p1_ch_5" />
+<site title="VI: The Way of the Eld" href="DarkTowerV,The.html#p1_ch_6" />
+<site title="VII: Todash" href="DarkTowerV,The.html#p1_ch_7" />
+<site title="Part TwoTelling Tales" href="DarkTowerV,The.html#p_2" />
+<site title="I: The Pavilion" href="DarkTowerV,The.html#p2_ch_1" />
+<site title="II: Dry Twist" href="DarkTowerV,The.html#p2_ch_2" />
+<site title="III: The Priest&amp;rsquo;s Tale (New York)" href="DarkTowerV,The.html#p2_ch_3" />
+<site title="IV: The Priest&amp;rsquo;s Tale Continued (Highways in..." href="DarkTowerV,The.html#p2_ch_4" />
+<site title="V: The Tale of Gray Dick" href="DarkTowerV,The.html#p2_ch_5" />
+<site title="VI: Gran-Pere&amp;rsquo;s Tale" href="DarkTowerV,The.html#p2_ch_6" />
+<site title="VII: Nocturne, Hunger" href="DarkTowerV,The.html#p2_ch_7" />
+<site title="VIII: Took&amp;rsquo;s Store; The Unfound Door" href="DarkTowerV,The.html#p2_ch_8" />
+<site title="IX: The Priest&amp;rsquo;s Tale Concluded (Unfound)" href="DarkTowerV,The.html#p2_ch_9" />
+<site title="Part ThreeThe Wolves" href="DarkTowerV,The.html#p_3" />
+<site title="I: Secrets" href="DarkTowerV,The.html#p3_ch_1" />
+<site title="II: The Dogan, Part 1" href="DarkTowerV,The.html#p3_ch_2" />
+<site title="III: The Dogan, Part 2" href="DarkTowerV,The.html#p3_ch_3" />
+<site title="IV: The Pied Piper" href="DarkTowerV,The.html#p3_ch_4" />
+<site title="V: The Meeting of the Folken" href="DarkTowerV,The.html#p3_ch_5" />
+<site title="VI: Before the Storm" href="DarkTowerV,The.html#p3_ch_6" />
+<site title="VII: The Wolves" href="DarkTowerV,The.html#p3_ch_7" />
+<site title="EpilogueThe Door Way Cave" href="DarkTowerV,The.html#bm_1" />
+<site title="Author&amp;rsquo;s Note" href="DarkTowerV,The.html#bm_2" />
+<site title="Author&amp;rsquo;s Afterword" href="DarkTowerV,The.html#bm_3" />
+</tour>
+</tours>
+<guide>
+<reference type="copyright-page" title="Copyright link" href="DarkTowerV,The.html#cop" />
+<reference type="other.ms-thumbimage" title="Pocket PC library image" href="~cov0029.jpg" />
+<reference type="toc" title="Table of Contents" href="contents.html" />
+<reference type="other.ms-coverimage-standard" title="Cover image" href="MSRCover.jpg" />
+<reference type="title-page" title="About this title link" href="DarkTowerV,The.html#cop" />
+<reference type="other.ms-titleimage-standard" title="Cover page image" href="~cov0028.jpg" />
+<reference type="other.ms-thumbimage-standard" title="Library image" href="MSRThumb.jpg" />
+<reference type="other.ms-firstpage" title="Begin reading link" href="DarkTowerV,The.html" />
+<reference type="other.ms-coverimage" title="Pocket PC cover image" href="~cov0030.jpg" />
+</guide>
+</package>
