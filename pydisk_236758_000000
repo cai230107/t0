@@ -1,0 +1,77 @@
+/* Looks great on 1280x1024 screen, may want to tweak sizes for lower resolutions. */
+/* wraith_0 */
+
+
+body { margin-left: 10%;
+       margin-right: 10%;      		 /* page margin size                   */
+       margin-top: 5%;
+       margin-bottom : 5%;
+       background: #1f4a6d;  
+       font-family: Georgia, "Times New Roman", Times, sans-serif;   }
+
+p    { text-align: justify;  		/* line justification                 */
+       text-indent: 2em;     		/* indent for first line of paragraph */
+       font-size: 120%;
+       margin: 0em;          		/* space between paragraphs           */
+       margin-right: 13%;    		/* margins between text and table     */
+       margin-left:  13%;
+       color: #9DB7ED;}
+
+a:link, a:visited, a:active {text-decoration: none; color: #6699CC;}        
+			     
+a:hover {text-decoration: underline }  
+
+b {color: #6699CC;}			/* color used for Affinity communication */
+
+h1, h2, h3, h4 { text-align: center; margin: 1em; color: #6699CC;}      
+                                       
+h1      { font-size: 250% }            
+h2      { font-size: 200%;}            
+h3      { font-size: 170% }            
+h4      { font-size: 150% }            
+
+hr      { height: 1px; width: 50%; text-align: center; color: #6699CC; }  
+  
+sub {font-size: 60%}			/* used for the frequent occurance of He3 */
+
+table {font-size: 110%;			
+       text-decoration:none; 		
+       background-color: #162938; color: #9DB7ED; 
+       border-width: 1px; border-style: solid; }
+       
+.cast {text-align: left;		/* cast page - category header*/
+       margin-right: 13%;    
+       margin-left:  13%;}
+
+.casttable {border-width: 0px; 		/* cast page - listing of characters*/
+	    border-style: none; 
+            margin-right: 28%;    
+	    margin-left:  28%;
+	    width: 550}
+
+.center {text-align: center}		/* puts the text in the center */
+
+.name {text-align: left;		/* cast page - name of ship/planet/etc...*/
+       font-style: italic;
+       margin-right: 13%;    
+       margin-left:  13%;}
+       
+.note {margin-right: 20%;		
+       margin-left: 20%;}
+
+.note2 {margin-right: 20%;
+        margin-left: 20%;
+        text-indent: 0em;}
+
+.timeline {text-align: left;		/* aligns the text to the left without an indentation */
+	   text-indent: 0em}
+	   	
+
+.TOC {border-width: 0px; 		/* table of contents page */
+	    border-style: none; 
+	    margin-right: 5%;    
+	    margin-left:  5%;
+	    text-align: top;
+	    width: 50%;
+	    font-family: "Times New Roman", Times, sans-serif; }
+
