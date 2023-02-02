@@ -1,0 +1,186 @@
+
+
+H1.FrontmatterTitle {font-size: xx-large; font-family: serif; font-style: normal; font-weight: bold; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: 0%; margin-bottom: +0; text-align: center}
+
+H1.HalfTitle {font-size: 170%; font-family: serif; font-style: normal; font-weight: bold; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0}
+
+H1.FrontmatterHead {font-size: 150%; font-family: serif; font-style: normal; font-weight: bold; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: 5%; margin-bottom: 0;}
+
+H2.BackmatterHead {font-size: 150%; font-family: serif; font-style: normal; font-weight: bold; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: 5%; margin-bottom: 0; page-break-before: always}
+
+H1.ChapNum {font-size: 150%; font-family: serif; font-style: italic; font-weight: normal; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: 5%; margin-bottom: 0; page-break-before: always}
+
+H2.ChapTitle {font-size: 115%; font-family: serif; font-style: normal; font-weight: bold; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+H1.PartNum {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+H2.PartTitle {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+H3.FrontmatterSubtitle {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+H3.ChapSubtitle {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+H3.PartSubtitle {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+H1.HeadLevel1 {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+H2.HeadLevel2 {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+H3.HeadLevel3 {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+H4.HeadLevel4 {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.TextFirst {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: 50pt; margin-bottom: 0}
+
+p.TextFirst2 {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: 60pt; margin-bottom: +0}
+
+p.TextFirstafterhead {font-size: 105%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: 60pt; margin-bottom: +0}
+
+p.TextFirstafterhead2 {font-size: 105%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: 5%; margin-bottom: +0}
+
+p.Poetry {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.Poetry1 {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: 1em; margin-bottom: 0}
+
+p.Poetry2 {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.Poetry3 {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.Dedication {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0}
+
+p.DedicationAuthor {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.PartAuthorAffil {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.ChapEndmatter {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.ChapAuthorAffil {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.BoxText {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.FigureCaption {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.Epigraph {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: 30%; margin-bottom: 0; page-break-before: always}
+
+p.EpigraphAuthor {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: +0; margin-bottom: 0}
+
+p.Footnote{font-size: 90%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: 0; margin-top: 5%; margin-bottom: +0}
+
+p.BullList {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.NumList {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.Extract {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.Table {font-size: 100; font-family: serif; font-style: normal; font-weight: bold; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: 0%; margin-bottom: +0}
+
+p.FrontmatterAuthor {font-size: medium%; font-family: serif; font-style: normal; font-weight: bold; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: 5%; margin-bottom: +0}
+
+p.FrontmatterAuthorbyLine {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.FrontmatterAuthorAffil {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.AuthorIntro {font-size: 110%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.TitleIntro {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: 60pt; margin-bottom: +0}
+
+p.Copyright {font-size: 10pt; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0;
+margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0} 
+
+p.Copyright1 {font-size: 10pt; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0;
+margin-left: 0; margin-right: 0; margin-top: 1.8%; margin-bottom: 0} 
+
+
+p.TableFootnote {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.TableHead {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.TableTitle {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.Glossary {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.IndexMain {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.IndexSub {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.TOCHead {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.TOCMain {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: 2%; margin-bottom: 0;}
+
+p.TOC1 {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0;}
+
+p.TOC2 {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0pt; 
+margin-left: 22%; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.TOCforIllustrations {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.IndexSubSub {font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: 0; 
+margin-left: +0; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.NewPage {page-break-before : always; margin-top: 5%}
+
+.SmallCaps {font-size : 80%;}
+.big { font-size : xx-large; }
+
+.DropCap {font-size : 300%}
+
+p.text{font-size: 100%; font-family: serif; font-style: normal; font-weight: normal; text-indent: -10%; margin-left: 20%; margin-right: +0; margin-top: 0; margin-bottom: +0}
+
+p.table {font-size: 10pt; font-family: serif; font-style: normal; font-weight: normal; text-indent: -5%; 
+margin-left: 5%; margin-right: +0; margin-top: +0; margin-bottom: +0}
+
+p.Image1{text-indent: 0; margin-top: 5%;}
+
+p.Rev{margin-left: 20pt; text-indent: -20pt;}
