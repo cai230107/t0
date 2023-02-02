@@ -1,0 +1,295 @@
+/* Textcafe version pdf2xml_1.5-P, */
+/* A technology developed by Texterity, Inc - www.texterity.com */
+
+b
+{
+  /* 0 uses */
+  font-weight: bold;
+}
+
+i
+{
+  /* 472 uses */
+  font-style: italic;
+}
+
+.pagebreak
+{
+  /* 0 uses */
+  page-break-before: always;
+}
+
+.image-center
+{
+  /* 0 uses */
+  text-indent: 0em;
+  text-align: center;
+}
+
+.bpg
+{
+  /* 0 uses */
+  text-indent: 0em;
+  text-align: center;
+}
+
+.pause-space
+{
+  /* 0 uses */
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+p.tocpart
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: medium;
+  font-weight: bold;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 1.0em;
+  margin-top: 1.0em;
+  text-align: left;
+  }
+
+p.tocchap
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 2.0em;
+  margin-left: 0em;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+
+p.para-source
+{
+  /* 23 uses */
+  /* inherits-from: p.hang-1; */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: -1.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+.chpno
+{
+  /* 4 uses */
+  /* inherits-from: p.format-15; */
+  font-family: sans-serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-bottom: 2.5em;
+  text-align: center;
+}
+
+p.epigraph-source
+{
+  /* 1 uses */
+  /* inherits-from: span.format-20; */
+  font-size: xx-small;
+  margin-left: 35%;
+}
+
+.part
+{
+  /* 4 uses */
+  /* inherits-from: h1.head-1; */
+  font-family: sans-serif;
+  font-size: xx-large;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-bottom: 1.0em;
+  text-align: center;
+  margin-top: 20%;
+}
+
+p.para-flush
+{
+  /* 1708 uses */
+  /* inherits-from: p.text-1; */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+p.para-indent
+{
+  /* 271 uses */
+  /* inherits-from: p.text-2; */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 1.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+span.dropcap
+{
+  /* 46 uses */
+  /* inherits-from: span.dropcap-1; */
+  font-family: sans-serif;
+  font-size: xx-large;
+}
+
+p.dedication
+{
+  /* 1 uses */
+  /* inherits-from: p.format-12; */
+  font-family: sans-serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: center;
+  margin-top: 30%;
+}
+
+span.smallcap
+{
+  /* 72 uses */
+  /* inherits-from: span.format-16; */
+  font-size: xx-small;
+}
+
+p.epigraph
+{
+  /* 1 uses */
+  /* inherits-from: p.format-19; */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  text-align: center;
+  margin-top: 30%;
+}
+
+.chp
+{
+  /* 46 uses */
+  /* inherits-from: p.format-15; */
+  font-family: sans-serif;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: right;
+  margin-top: 55%;
+  margin-bottom: 1.5em;
+}
+
+p.extract-para-center
+{
+  /* 2 uses */
+  /* inherits-from: p.format-25; */
+  font-family: sans-serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: center;
+  margin-top: 1.0em;
+  margin-bottom: 1.0em;
+}
+p.extract-para-flush
+{
+  /* 2 uses */
+  /* inherits-from: p.format-25; */
+  font-family: sans-serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 1.0em;
+  margin-right: 1.0em;
+  text-align: justified;
+  margin-top: 1.0em;
+  margin-bottom: 1.0em;
+}
+
+p.para-ragged-right
+{
+  /* 3 uses */
+  /* inherits-from: p.format-30; */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 5.0em;
+  margin-right: 0.0em;
+  text-align: left;
+}
+
+p.ATA
+{
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: center;
+  margin-top: 1.5em;
+}
+
+p.copyright
+{
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: center;
+  margin-top: 1.5em;
+}
+
+p.alsoby
+{
+  /* 2 uses */
+  /* inherits-from: p.format-25; */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: 0.0em;
+}
