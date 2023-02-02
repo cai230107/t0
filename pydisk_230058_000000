@@ -1,0 +1,79 @@
+TD {font-family: Arial; font-size: 11pt;}
+.HEADMENU {color: white; font-family: Arial; font-size: 11pt;}
+.LINK1 {color: white; font-family: Arial; font-size: 11pt;}
+.text {
+	font-size: x-small;
+	text-align: justify;
+	text-indent: 9%;
+	line-height: 150%;
+}
+.text2 {
+	font-size: x-small;
+	text-align: justify;
+	text-indent: 0cm;
+	line-height: 150%;
+}
+.left {
+	font-size: x-small;
+	text-align: left;
+	text-indent: 0cm;	
+	line-height: 150%;
+}
+.cent {
+	font-size: x-small;
+	text-indent: 0cm;
+	text-align : center;
+	line-height: 150%;
+}
+.qw {
+	font-size: x-small;
+	text-indent: 0cm;
+	text-align : right;
+	line-height: 150%;
+}
+.st {
+	font-size: x-small;
+	text-indent: 0cm;	
+	line-height: 150%;
+	margin-left: 9%;
+	margin-bottom: 4%;
+	margin-top: 4%;
+}
+.zag {
+	color: #006633;
+	text-align : center;
+	text-indent: 0cm;
+	line-height: 150%;
+	margin-top: 10%;
+	margin-bottom: 5%;
+	font-size: medium;
+	font-weight: bold;
+}
+.zagb {
+	text-align : center;
+	text-indent: 0cm;
+	line-height: 140%;	
+	margin-top: 5%;
+	margin-bottom: 5%;
+	font-size: small;
+	font-style: italic;
+	font-weight: bold;
+}
+.zagn {
+	text-align : center;
+	text-indent: 0cm;
+	line-height: 150%;	
+	margin-top: 5%;
+	margin-bottom: 5%;
+	font-size: x-small;
+	font-weight: bold;
+}
+.ab {
+	text-align: left;
+	text-indent: 15%;
+	line-height: 150%;
+	font-size: 11pt;
+}
+
+A {text-decoration: none; color: #000066;}
+A:HOVER {text-decoration: underline;}
