@@ -1,0 +1,136 @@
+
+Option Explicit			' all variables must be declared
+
+Dim CoolAgent(4)		' the character object
+Dim LoadRequest(4)		' the request objects
+Dim EssentialsRequest(4)	' these could be kept in a single array
+Dim DownloadStatus(4)		' staus of downloads
+Dim DataPath(4)			' location of character data
+Dim AgentName(4)
+
+
+If Have_Agent() Then
+
+Else
+	Msgbox "You need to install the Microsoft Agent. Please install the software according to the instruction in the Download section of the book Romance of Three Kingdoms."
+End If
+
+
+Function Have_Agent()
+	Dim Agent1
+	Have_Agent = False
+	On Error Resume Next
+	Set Agent1 = CreateObject("agent.control.1")
+	Have_Agent=IsObject(Agent1)
+End Function
+
+
+Sub window_OnLoad
+	Dim n
+
+	AgentControl.Connected = True		' temp patch for IE4 PP1
+
+	AgentName(0) = "Merlin"
+	AgentName(1) = "Genie"
+	AgentName(2) = "Robby"
+	AgentName(3) = "Peedy"
+	DataPath(0) = "c:\windows\msagent\chars\merlin.acs"
+	DataPath(1) = "c:\windows\msagent\chars\genie.acs"
+	DataPath(2) = "c:\windows\msagent\chars\robby.acs"
+	DataPath(3) = "c:\windows\msagent\chars\peedy.acs"
+
+	For n = 0 to 3
+		DownloadStatus(n) = "NOCHAR"
+		Set LoadRequest(n) = AgentControl.Characters.Load (AgentName(n), DataPath(n))
+	Next
+	window.status = "Loading the story tellers. Please press ""Test""..."
+End Sub
+
+
+Function AgentTest()
+	Dim n
+	Dim Count
+	Dim E(4)
+
+	Count = 0
+	For n = 0 to 3
+		Select Case LoadRequest(n).Status
+			Case 0
+				Msgbox AgentName(n) & " is ready."
+				Set CoolAgent(n) = AgentControl.Characters(AgentName(n))
+				E(n) = "OK"
+				Count = Count + 1
+			Case 4 or 2
+				Msgbox "Loading " & AgentName(n) & " is in progress."
+			Case Else
+				Msgbox "Loading " & AgentName(n) & " from the computer has failed. Please hit ""Test"" to try again. If it continues failing, you probably do not have this Microsoft character in your system. You need only one character ready for reading. If you do not have any, please go to http://microsoft.com/msagent to download all four characters Merlin, Genie, Robby, and Peedy."
+		End Select
+	Next
+
+
+	If Count > 0 then
+		window.status = ""
+	Else
+		window.status = "Press ""Test"" until at least one story teller is ready."
+	End If
+End Function
+
+
+Function AgentSpeak()
+	Dim n
+	Dim m
+	Dim Temp
+	Dim MyStory
+	Dim StoryLen
+	Dim TextPoint
+	Dim MySentence
+	Dim MyChar
+
+	n = document.all.item("AgentChoice", 0).value
+	If (LoadRequest(n).Status <> 0) And (IsObject(CoolAgent(n))) Then
+		Msgbox AgentName(n) & " is not ready. Please choose another character that is ready."
+		Exit Function
+	End If
+	CoolAgent(n).Show
+
+	StoryLen = Len(document.all.item("Story", 0).value)
+
+	Temp = 0
+	For m = 0 to 9
+		If document.all.item("StartPoint", m).checked then
+			Temp = m
+			Exit For
+		End If
+	Next
+
+	TextPoint = CInt(StoryLen / 10 * Temp) + 1
+
+	Do While (TextPoint <= StoryLen)
+		MyStory = document.all.item("Story", 0).value
+		MySentence=""
+
+		MyChar=""
+		Do While (MyChar <> ".") And (TextPoint <= StoryLen)
+			MyChar = Mid(MyStory, TextPoint, 1)
+
+			Select Case MyChar
+				Case """"
+					MySentence = MySentence & "."
+				Case "~"
+					MyChar = ","
+				Case ";"
+					MyChar = ","
+				Case ":"
+					MySentence = MySentence & "."
+			End Select
+
+			MySentence = MySentence & MyChar
+			TextPoint = TextPoint + 1
+		Loop
+
+		CoolAgent(n).Speak MySentence
+		StoryLen = Len(document.all.item("Story", 0).value)
+	Loop
+
+	CoolAgent(n).Speak "I am " & AgentName(n) & ", your story teller."
+End Function
