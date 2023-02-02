@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.2 Document//EN" "http://openebook.org/dtds/oeb-1.2/oebdoc12.dtd">
+<html xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="pragma" content="no-cache" />
+<title>Blackcollar-The Judas Solution by Timothy Zahn - Baen Books</title>
+
+<script language="JavaScript"><!--
+  // This frame remembers the state of all the other frames
+
+  var FrameVersion = '2.0.1.0';
+
+  // enter the Isbn of the book here
+  var isbn = '1416520651';
+
+  // Enter the array of last paragraph numbers by chapter
+  // the first entry is non-zero only if their is a prologue
+  var lastPg = new Array(132,295,473,635,831,995,1158,1348,1492,1601,1830,2070,2293,2562,2834,2983,3094,3312,3512,3877,3903,3904);
+
+  // Enter the title above
+  var TheBookTitle = document.title;
+
+//--></script>
+
+<script language="JavaScript"><!--
+  if (window.focus) window.focus();
+//--></script>
+
+</head>
+
+<frameset framespacing="0" border="0" frameborder="0" rows="25,*">
+  <frame name="banner" scrolling="no" noresize marginwidth="0" marginheight="0" src="banner.htm" target="_self">
+  <frameset cols="114,*">
+    <frame name="control" target="main" src="bncontrol.htm" marginwidth="0" marginheight="0" scrolling="no" style="padding-left: 0; padding-top: 0">
+    <frame name="main" target="_self" marginwidth="20" marginheight="5" scrolling="auto" src="1416520651___0.htm">
+  </frameset>
+  <noframes>
+  <body>
+
+  <p align="center">This page uses frames, but your browser doesn't support them.<br />
+  &nbsp;<a href="1416520651___0.htm">Click here for frameless version</a></p>
+
+  </body>
+  </noframes>
+</frameset>
+
+</html>
