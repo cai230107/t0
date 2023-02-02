@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Hidden Riches</dc:Title> 
+   <dc:Creator role="aut" file-as="Roberts, Nora">Nora Roberts</dc:Creator> 
+   <dc:Publisher>Jove</dc:Publisher> 
+   <dc:Date>1994</dc:Date> 
+   <dc:Identifier scheme="ISBN" id="ID1">0-7865-0328-9</dc:Identifier> 
+   <dc:Identifier scheme="ISBN" id="ID2">0-5151-1606-8</dc:Identifier> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{ABB3D800-5DF1-11D6-A878-000347763FD2}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="ms-chaptertour" content="chaptertour" />
+   <meta name="rwver-ReaderWorks SDK Control" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-HTML Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-Image Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-Text Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-LIT file generator" content="1.0.0.0131 (05/10/2000)" />
+   <meta name="rw-License Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="hiddenrich-copyright" href="hiddenrich-copyright.html" media-type="text/html" />
+  <item id="hiddenrich-body" href="hiddenrich-body.html" media-type="text/html" />
+  <item id="hiddenrich-thumb" href="img\hiddenrich-thumb.jpg" media-type="image/jpeg" />
+  <item id="hiddenrich-toc" href="hiddenrich-toc.html" media-type="text/html" />
+  <item id="hiddenrich-cover" href="img\hiddenrich-cover.jpg" media-type="image/jpeg" />
+  <item id="about" href="about.html" media-type="text/html" />
+  <item id="hiddenrich-title" href="img\hiddenrich-title.jpg" media-type="image/jpeg" />
+  <item id="hiddenrich" href="hiddenrich-copyright.html" media-type="text/css" />
+ </manifest>
+ <spine>
+  <itemref idref="hiddenrich-copyright" />
+  <itemref idref="hiddenrich-body" />
+ </spine>
+ <tours>
+  <tour id="chaptertour" title="Chapter Tour">
+   <site title="PROLOGUE" href="hiddenrich-body.html#TOCREF-1" />
+   <site title="CHAPTER ONE" href="hiddenrich-body.html#TOCREF-2" />
+   <site title="CHAPTER TWO" href="hiddenrich-body.html#TOCREF-3" />
+   <site title="CHAPTER THREE" href="hiddenrich-body.html#TOCREF-4" />
+   <site title="CHAPTER FOUR" href="hiddenrich-body.html#TOCREF-5" />
+   <site title="CHAPTER FIVE" href="hiddenrich-body.html#TOCREF-6" />
+   <site title="CHAPTER SIX" href="hiddenrich-body.html#TOCREF-7" />
+   <site title="CHAPTER SEVEN" href="hiddenrich-body.html#TOCREF-8" />
+   <site title="CHAPTER EIGHT" href="hiddenrich-body.html#TOCREF-9" />
+   <site title="CHAPTER NINE" href="hiddenrich-body.html#TOCREF-10" />
+   <site title="CHAPTER TEN" href="hiddenrich-body.html#TOCREF-11" />
+   <site title="CHAPTER ELEVEN" href="hiddenrich-body.html#TOCREF-12" />
+   <site title="CHAPTER TWELVE" href="hiddenrich-body.html#TOCREF-13" />
+   <site title="CHAPTER THIRTEEN" href="hiddenrich-body.html#TOCREF-14" />
+   <site title="CHAPTER FOURTEEN" href="hiddenrich-body.html#TOCREF-15" />
+   <site title="CHAPTER FIFTEEN" href="hiddenrich-body.html#TOCREF-16" />
+   <site title="CHAPTER SIXTEEN" href="hiddenrich-body.html#TOCREF-17" />
+   <site title="CHAPTER SEVENTEEN" href="hiddenrich-body.html#TOCREF-18" />
+   <site title="CHAPTER EIGHTEEN" href="hiddenrich-body.html#TOCREF-19" />
+   <site title="CHAPTER NINETEEN" href="hiddenrich-body.html#TOCREF-20" />
+   <site title="CHAPTER TWENTY" href="hiddenrich-body.html#TOCREF-21" />
+   <site title="CHAPTER TWENTY-ONE" href="hiddenrich-body.html#TOCREF-22" />
+   <site title="CHAPTER TWENTY-TWO" href="hiddenrich-body.html#TOCREF-23" />
+   <site title="CHAPTER TWENTY-THREE" href="hiddenrich-body.html#TOCREF-24" />
+   <site title="CHAPTER TWENTY-FOUR" href="hiddenrich-body.html#TOCREF-25" />
+   <site title="CHAPTER TWENTY-FIVE" href="hiddenrich-body.html#TOCREF-26" />
+   <site title="CHAPTER TWENTY-SIX" href="hiddenrich-body.html#TOCREF-27" />
+   <site title="CHAPTER TWENTY-SEVEN" href="hiddenrich-body.html#TOCREF-28" />
+   <site title="CHAPTER TWENTY-EIGHT" href="hiddenrich-body.html#TOCREF-29" />
+   <site title="CHAPTER TWENTY-NINE" href="hiddenrich-body.html#TOCREF-30" />
+   <site title="CHAPTER THIRTY" href="hiddenrich-body.html#TOCREF-31" />
+  </tour>
+ </tours>
+ <guide>
+  <reference type="copyright-page" title="Copyright link" href="hiddenrich-copyright.html" />
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="img\hiddenrich-thumb.jpg" />
+  <reference type="toc" title="Table of Contents" href="hiddenrich-toc.html" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="img\hiddenrich-cover.jpg" />
+  <reference type="title-page" title="About this title link" href="about.html" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="img\hiddenrich-title.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="img\hiddenrich-thumb.jpg" />
+  <reference type="other.ms-firstpage" title="Begin reading link" href="hiddenrich-body.html#page-1" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="img\hiddenrich-cover.jpg" />
+ </guide>
+</package>
