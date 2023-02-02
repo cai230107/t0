@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN" "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="DOI-1416555056">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>One Day on Mars</dc:Title>
+      <dc:Type>Novel</dc:Type>
+      <dc:Identifier id="ISBN10-1416555056" scheme="ISBN10-Hardcover">1-4165-5505-6</dc:Identifier>
+      <dc:Identifier id="ISBN13-9781416555056" scheme="ISBN13-Hardcover">978-1-4165-5505-6</dc:Identifier>
+      <dc:Identifier id="DOI-1416555056" scheme="DOI">10.1125/Baen.1416555056</dc:Identifier>
+      <dc:Publisher>Baen Books</dc:Publisher>
+      <dc:Creator role="aut" file-as="Taylor, Travis S.">Travis S. Taylor</dc:Creator>
+      <dc:Contributor role="art" file-as="Miller, Kurt">Kurt Miller</dc:Contributor>
+      <dc:Subject>Science Fiction</dc:Subject>
+      <dc:Rights>2007 by Travis S. Taylor</dc:Rights>
+      <dc:Date>2007-10-01</dc:Date>
+      <dc:Language>US English (en-us)</dc:Language>
+    </dc-metadata>
+    <x-metadata>
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <item id="content" href="1416555056__p_.htm" media-type="text/x-oeb1-document" />
+    <item id="toc" href="1416555056_top.htm" media-type="text/x-oeb1-document" />
+    <item id="coverstandard" href="1416555056_Cover.jpg" media-type="image/jpeg" />
+    <item id="thumbstandard" href="1416555056_Library.jpg" media-type="image/jpeg" />
+    <item id="titlestandard" href="1416555056_Title.jpg" media-type="image/jpeg" />
+    <item id="cover" href="1416555056_PCCover.jpg" media-type="image/jpeg" />
+    <item id="thumb" href="1416555056_PCLibrary.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine>
+    <itemref idref="content" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="1416555056_top.htm" />
+    <reference type="copyright-page" title="Copyright" href="1416555056__p_.htm" />
+    <reference type="title-page" title="Title Page" href="1416555056__p_.htm" />
+    <reference type="other.ms-firstpage" title="first page" href="1416555056__p_.htm#Chap_1" />
+    <reference type="other.ms-coverimage-standard" title="cover image standard" href="1416555056_Cover.jpg" />
+    <reference type="other.ms-thumbimage-standard" title="thumb image standard" href="1416555056_Library.jpg" />
+    <reference type="other.ms-coverimage" title="PPC cover image" href="1416555056_PCCover.jpg" />
+    <reference type="other.ms-thumbimage" title="PPC thumb image" href="1416555056_PCLibrary.jpg" />
+  </guide>
+</package>
