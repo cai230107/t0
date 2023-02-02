@@ -1,0 +1,27 @@
+document.write('<br>');
+
+var txt = "Bookmark This Page"
+var url = document.location.href;
+var who = document.title;
+
+var ver = navigator.appName
+var num = parseInt(navigator.appVersion)
+if ((ver == "Microsoft Internet Explorer")&&(num >= 4)) {
+   document.write('<A HREF="javascript:window.external.AddFavorite(url,who);" ');
+   document.write('onMouseOver=" window.status=')
+   document.write("txt; return true ")
+   document.write('"onMouseOut=" window.status=')
+   document.write("' '; return true ")
+   document.write('">'+ txt + '</a>')
+}else{
+   txt += "  (Ctrl+D)"
+   document.write(txt)
+}
+
+document.write('<br><br>');
+document.write('<img src="http://www.netcharles.com/util/delicious.gif" width="10" height="10" alt="del.icio.us">&nbsp;');
+document.write('<a href="http://del.icio.us/post" title="Save this page to del.icio.us"');
+document.write('onclick="window.open(\'');
+document.write('http://del.icio.us/post?v=4&noui&jump=close&url=\'+encodeURIComponent(location.href)+\'&title=\'+encodeURIComponent(document.title), \'delicious\',\'toolbar=no,width=700,height=400\');');
+document.write('return false;"'); 
+document.write('>Save This Page</a>');
