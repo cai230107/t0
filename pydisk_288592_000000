@@ -1,0 +1,12 @@
+document.write('');
+
+var gnEbMinZIndex = 10000;
+var gfEbInIframe = false;
+var gEbBAd = new Object();
+gEbBAd.nFlightID = 232704;
+gEbBAd.nWidth = 300;
+gEbBAd.nHeight = 250;
+var gstrEbRandnum = new String(Math.random());
+gstrEbRandnum = gstrEbRandnum.substring(gstrEbRandnum.indexOf(".")+1 , gstrEbRandnum.length);
+gEbBAd.strNonSupported = "http://bs.serving-sys.com/BurstingPipe/NonSupportedBanner.asp?FlightID=232704&Page=&PluID=0&Width=300&Height=250&Pos=" + gstrEbRandnum;
+document.write('\n<script src=\"http://ds.serving-sys.com/BurstingScript/ebBannerServing_232704.js\"><\/script>');document.write('\n<noscript>\n<a href=\'http://ad.doubleclick.net/click%3Bh=v8/356d/3/0/%2a/w%3B99537314%3B0-0%3B1%3B16210259%3B4307-300/250%3B21328529/21346419/1%3B%3B%7Eaopt%3D2/0/51/0%3B%7Esscs%3D%3fhttp://bs.serving-sys.com/BurstingPipe/BannerRedirect.asp?FlightID=232704&Page=&PluID=0&Pos=4061\' target=\'_blank\'><img src=\'http://bs.serving-sys.com/BurstingPipe/BannerSource.asp?FlightID=232704&Page=&PluID=0&Pos=4061\' border=0 width=300 height=250></a>\n</noscript>');
