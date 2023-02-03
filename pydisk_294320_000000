@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE package
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.2 Package//EN"
+  "http://openebook.org/dtds/oeb-1.2/oebpkg12.dtd">
+
+<!--=================================================================-->
+  
+<package unique-identifier="0-446-30653-3">
+
+<!--=================================================================-->
+
+<metadata>   
+<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+<dc:Title>Darkness Weaves</dc:Title>
+<dc:Creator file-as="Wagner, Karl Edward" role="aut">Karl Edward Wagner</dc:Creator>
+<dc:Identifier>0-446-30653-3</dc:Identifier>
+<dc:Language>en</dc:Language>
+<dc:Subject>Kane</dc:Subject>
+<dc:Description>fantasy</dc:Description>
+<dc:Publisher>Warner Books</dc:Publisher>
+<dc:Date event="publication">1978</dc:Date>
+<dc:Format>text/x-oeb1-document</dc:Format>
+</dc-metadata>
+<x-metadata>   
+<meta name="price" content="USD 3.75" />
+</x-metadata>
+</metadata>
+
+<!--=================================================================-->
+
+<manifest>
+<item id="book" href="Wagner, Karl Edward - Darkness Weaves - v3.html" media-type="text/x-oeb1-document" />
+<item id="front-cover" href="DW_front.jpg" media-type="image/jpeg" />
+<item id="back-cover" href="DW_back.jpg" media-type="image/jpeg" />
+</manifest>
+
+<!--=================================================================-->
+
+<spine>
+<itemref idref="book" />
+</spine>
+
+<!--=================================================================-->
+
+<tours>
+<tour id="chapter_tour" title="Chapter Tours">
+
+<site title="stop01" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0000" />
+
+<site title="stop02" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0001" />
+
+<site title="stop03" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0002" />
+
+<site title="stop04" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0003" />
+
+<site title="stop05" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0004" />
+
+<site title="stop06" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0005" />
+
+<site title="stop07" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0006" />
+
+<site title="stop08" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0007" />
+
+<site title="stop09" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0008" />
+
+<site title="stop10" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0009" />
+
+<site title="stop11" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0010" />
+
+<site title="stop12" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0011" />
+
+<site title="stop13" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0012" />
+
+<site title="stop14" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0013" />
+
+<site title="stop15" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0014" />
+
+<site title="stop16" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0015" />
+
+<site title="stop17" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0016" />
+
+<site title="stop18" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0017" />
+
+<site title="stop19" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0018" />
+
+<site title="stop20" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0019" />
+
+<site title="stop21" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0020" />
+
+<site title="stop22" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0021" />
+
+<site title="stop23" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0022" />
+
+<site title="stop24" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0023" />
+
+<site title="stop25" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0024" />
+
+<site title="stop26" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0025" />
+
+<site title="stop27" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0026" />
+
+<site title="stop28" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0027" />
+
+<site title="stop29" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0028" />
+
+<site title="stop30" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0029" />
+
+<site title="stop31" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0030" />
+
+<site title="stop32" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0031" />
+
+<site title="stop33" href="Wagner, Karl Edward - Darkness Weaves - v3.html#chapter0032" />
+
+</tour>
+</tours>
+
+<!--=================================================================-->
+
+<guide>
+
+</guide>
+
+<!--=================================================================-->
+
+</package>
