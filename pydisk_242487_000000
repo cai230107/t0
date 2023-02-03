@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE package PUBLIC 
+    "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+    "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+<metadata>
+<dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+<dc:Title>To Say Nothing of the Dog</dc:Title>
+<dc:Creator>Connie Willis</dc:Creator>
+<dc:Language>en-us</dc:Language>
+<dc:Identifier id="OverDriveGUID" scheme="GUID">{CE0E5597-836C-4BC4-BF04-8892A5CA5BE7}</dc:Identifier>
+</dc-metadata>
+<x-metadata>
+<meta name="rwver-ReaderWorks SDK Control" content="0.0.0.0627 (06/27/2000)" />
+<meta name="rwver-HTML Input Filter" content="0.0.0.0627 (06/27/2000)" />
+<meta name="rwver-Image Input Filter" content="0.0.0.0627 (06/27/2000)" />
+<meta name="rwver-Text Input Filter" content="0.0.0.0627 (06/27/2000)" />
+<meta name="rwver-LIT file generator" content="1.0.0.0131 (05/10/2000)" />
+<meta name="rw-License Key" content="RWPUB" />
+</x-metadata>
+</metadata>
+<manifest>
+<item id="Willis,_Connie_-_To_Say_Nothing_of_the_Dog" href="Willis, Connie - To Say Nothing of the Dog.htm" media-type="text/html" />
+<item id="ppclib" href="ppclib.jpg" media-type="image/jpeg" />
+<item id="dog" href="dog.jpg" media-type="image/jpeg" />
+<item id="~cov0001" href="~cov0001.htm" media-type="text/html" />
+<item id="side" href="side.jpg" media-type="image/jpeg" />
+<item id="lib" href="lib.jpg" media-type="image/jpeg" />
+<item id="ppccob" href="ppccob.jpg" media-type="image/jpeg" />
+</manifest>
+<spine>
+<itemref idref="Willis,_Connie_-_To_Say_Nothing_of_the_Dog" />
+</spine>
+<guide>
+<reference type="other.ms-thumbimage" title="PocketPC thumbnail image" href="ppclib.jpg" />
+<reference type="other.ms-coverimage-standard" title="Standard cover image" href="dog.jpg" />
+<reference type="title-page" title="About this title link" href="~cov0001.htm" />
+<reference type="other.ms-titleimage-standard" title="Standard title image" href="side.jpg" />
+<reference type="other.ms-thumbimage-standard" title="Standard thumbnail image" href="lib.jpg" />
+<reference type="other.ms-coverimage" title="PocketPC cover image" href="ppccob.jpg" />
+</guide>
+</package>
