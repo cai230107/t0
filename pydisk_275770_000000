@@ -1,0 +1,377 @@
+/* Textcafe version pdf2xml_2.0s50a, */
+/* A technology developed by Texterity, Inc - www.texterity.com */
+
+h1.about-title
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: xx-large;
+  font-weight: bold;
+  font-style: italic;
+  text-indent: 0.0%;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-bottom: 1.0em;
+  text-align: center;
+}
+
+p.about-subtitle
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: x-large;
+  font-weight: bold;
+  font-style: italic;
+  text-indent: 0.0%;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-bottom: 2.0em;
+  text-align: center;
+}
+
+p.about-author
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: large;
+  font-weight: bold;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-top: 1.0em;
+  margin-bottom: 15%;
+  text-align: center;
+}
+
+p.about-para-indent
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 1.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+p.about-para-flush
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+p.about-para-hang
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: -2.0em;
+  margin-left: 3.0em;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+p.about-credit
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 20%;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+p.dedication
+{
+  /* 2 uses */
+  font-family: serif;
+  font-size: small;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: center;
+}
+
+b
+{
+  /* 2 uses */
+  font-weight: bold;
+}
+
+div.pagebreak
+{
+  /* 7 uses */
+  page-break-before: always;
+}
+
+i
+{
+  /* 691 uses */
+  font-style: italic;
+}
+
+p
+{
+  /* 0 uses */
+}
+
+p.copyright
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-top: 1.0em;
+  text-align: justify;
+}
+
+p.also-by-author
+{
+  /* 1 uses */
+  font-family: serif;
+  font-size: small;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-top: 2.0em;
+  margin-bottom: 0.0em;
+  text-align: center;
+}
+
+p.also-by-title
+{
+  /* 4 uses */
+  font-family: serif;
+  font-size: small;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-top: 1.0em;
+  text-align: center;
+}
+
+p.image-center
+{
+  /* 0 uses */
+  text-indent: 0em;
+  text-align: center;
+}
+
+p.pause-space
+{
+  /* 37 uses */
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+p.smallcap
+{
+  /* 2 uses */
+  font-family: serif;
+  font-size: xx-small;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: center;
+}
+
+p.tocchap
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: small;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: -1.0em;
+  margin-left: 1.0em;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+  color: #000000;
+  text-decoration: none;
+}
+
+p.tocpart
+{
+  /* 0 uses */
+  font-family: sans-serif;
+  font-size: large;
+  font-weight: bold;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+  color: #000000;
+  text-decoration: none;
+}
+
+p.tocsub1
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  text-indent: 4.0em;
+  margin-left: 0em;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+  color: #000000;
+  text-decoration: none;
+}
+
+p.tocsub2
+{
+  /* 0 uses */
+  font-family: serif;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  text-indent: 6.0em;
+  margin-left: 0em;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+  color: #000000;
+  text-decoration: none;
+}
+
+span.dropcap
+{
+  /* 81 uses */
+  font-family: serif; 
+  font-size: large;
+  font-style: italic;
+}
+
+span.smallcap
+{
+  /* 4 uses */
+  font-size: xx-small;
+}
+
+h2.chp
+{
+  /* 82 uses */
+  font-family: serif;
+  font-size: xx-large;
+  font-weight: normal;
+  font-style: normal;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-top: 2.0em;
+  margin-bottom: 2.0em;
+  text-align: center;
+}
+
+
+h3.sub1
+{
+  /* 2 uses */
+  font-family: serif;
+  font-size: small;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  margin-top: 1.0em;
+  margin-bottom: 1.0em;
+  text-align: center;
+}
+
+
+p.para-indent
+{
+  /* 4605 uses */
+  /* inherits-from: p.text-2; */
+  font-family: serif;
+  font-size: small;
+  text-indent: 1.0em;
+  margin-left: 0.0;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+p.para-flush
+{
+  /* 103 uses */
+  /* inherits-from: p.text-3; */
+  font-family: serif;
+  font-size: small;
+  text-indent: 0.0em;
+  margin-left: 0.0;
+  margin-right: 0.0em;
+  text-align: justify;
+}
+
+p.para-center
+{
+  /* 2 uses */
+  font-family: serif;
+  font-size: small;
+  text-indent: 0.0em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+  text-align: center;
+}
+
+p.para-hang
+{
+  font-family: serif;
+  font-size: small;
+  text-indent: -1.0em;
+  margin-left: 1.0em;
+  margin-right: 0.0em;
+  text-align: left;
+}
+
+p.para-ragged-right
+{
+  font-family: serif;
+  font-size: small;
+  text-indent: 0.0em;
+  margin-left: 0.0;
+  margin-right: 0.0em;
+  text-align: left;
+}
+
+p.para-ragged-indent
+{
+  font-family: serif;
+  font-size: small;
+  text-indent: 1.0em;
+  margin-left: 0.0;
+  margin-right: 0.0em;
+  text-align: left;
+}
+
+hr.pause
+{
+  width: 10%;
+  text-indent: 0.0em;
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
