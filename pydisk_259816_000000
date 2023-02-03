@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE package
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.2 Package//EN"
+  "http://openebook.org/dtds/oeb-1.2/oebpkg12.dtd">
+
+<!--=================================================================-->
+  
+<package unique-identifier="0-345-27469-5">
+
+<!--=================================================================-->
+
+<metadata>   
+<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+<dc:Title>Harpist in the Wind</dc:Title>
+<dc:Creator file-as="McKillip, Patricia A." role="aut">Patricia A. McKillip</dc:Creator>
+<dc:Identifier>0-345-27469-5</dc:Identifier>
+<dc:Language>en</dc:Language>
+<dc:Subject></dc:Subject>
+<dc:Description>fantasy</dc:Description>
+<dc:Publisher>The Berkley Publishing Group</dc:Publisher>
+<dc:Date event="publication">1979</dc:Date>
+<dc:Format>text/x-oeb1-document</dc:Format>
+</dc-metadata>
+<x-metadata>   
+<meta name="price" content="USD 2.25" />
+</x-metadata>
+</metadata>
+
+<!--=================================================================-->
+
+<manifest>
+<item id="book" href="McKillip, Patricia - Harpist In The Wind - v3.html" media-type="text/x-oeb1-document" />
+<item id="front-cover" href="HITW_front.jpg" media-type="image/jpeg" />
+<item id="back-cover" href="HITW_back.jpg" media-type="image/jpeg" />
+<item id="frontice" href="HITW_frontice.jpg" media-type="image/jpeg" />
+<item id="map" href="RMOH_map.jpg" media-type="image/jpeg" />
+</manifest>
+
+<!--=================================================================-->
+
+<spine>
+<itemref idref="book" />
+</spine>
+
+<!--=================================================================-->
+
+<tours>
+<tour id="chapter_tour" title="Chapter Tours">
+
+<site title="stop01" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0001" />
+
+<site title="stop02" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0002" />
+
+<site title="stop03" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0003" />
+
+<site title="stop04" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0004" />
+
+<site title="stop05" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0005" />
+
+<site title="stop06" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0006" />
+
+<site title="stop07" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0007" />
+
+<site title="stop08" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0008" />
+
+<site title="stop09" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0009" />
+
+<site title="stop10" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0010" />
+
+<site title="stop11" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0011" />
+
+<site title="stop12" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0012" />
+
+<site title="stop13" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0013" />
+
+<site title="stop14" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0014" />
+
+<site title="stop15" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0015" />
+
+<site title="stop16" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0016" />
+
+<site title="stop17" href="McKillip, Patricia - Harpist In The Wind - v3.html#chapter0017" />
+
+<site title="stop18" href="McKillip, Patricia - Harpist In The Wind - v3.html#authornotes" />
+
+</tour>
+
+</tours>
+
+<!--=================================================================-->
+
+<guide>
+
+</guide>
+
+<!--=================================================================-->
+
+</package>
