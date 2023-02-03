@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>Footnotes</title>
+<meta http-equiv="CONTENT-TYPE" content="TEXT/HTML; charset=us-ascii" />
+<style>
+
+p { margin-top: 0.05em ;
+      text-indent: 1.23em ;
+       margin-bottom: 0.05em }
+
+p.blockquote { font-size: x-small}
+
+p.notes   { text-align:left;
+                    margin-left:1.23em;  
+                    text-indent:-1.23em }
+
+p.notes1    { text-align:left;
+	   margin-left:1.23em;
+                         text-indent: 1.23em  }
+
+p.quotes { text-align:center;
+                     text-indent:0%;
+	margin-top:20%;
+	 text-indent:0% }
+
+.chapter {page-break-before: right}
+
+.box {margin-left: 2em ;
+          margin-right: 2em ;
+           text-indent: 0em ;
+           text-align: justify ;
+           margin-top: 1.25em ;
+           margin-bottom: 1.25em }
+
+.fl {text-indent: 0em ;  margin-top: 1em }
+a {text-decoration: none  }
+.indent { margin-left: 6%;
+          text-indent: 0em }
+.noindent {text-indent: 0em}
+.fn {color: red}
+</style>
+</head>
+<body>
+
+<p class="notes">16. 'Thursday, are you there?'</p>
+
+</body>
+</html>
