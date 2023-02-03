@@ -1,0 +1,27 @@
+<HTML>
+<HEAD>
+  <!-- IPB Books -->
+<TITLE>www.ipbbooks.com</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff" TEXT="#000000" LINK="#0000ff" VLINK="#ff0000">
+<table width="100%">
+	<tr>
+		<td width="25%" valign="top">
+		&nbsp;
+		</td>
+		<td width="50%" valign="top" align="left">
+developers note:<BR><BR>
+If you poke around, you will find lots of fan fiction on the web.  Whether it be an author, a series (like harry potter) or even a genre (like contemporary science fiction) you will find sites with amateur authors trying out. <BR><BR>
+Well, link to em here.  How hard you research it will determine how good this section is.  Put in as much or as little work as you want... or leave it blank and guilt a future reader to do the research and fill this section in!<BR><BR>(as always, change whatever but keep target="main")
+<BR><BR>
+<a href="http://www.fanfiction.net/" target="main">fanfiction.net</a> - Devoted to fan fiction of all types.  Check here first to see if the genre/author/series has a section here.
+<BR><BR>
+<BR><BR>
+		</td>
+		<td width="25%">
+		&nbsp;	
+		</td>
+	</tr>
+</table>
+</BODY>
+</HTML>
