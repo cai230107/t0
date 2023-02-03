@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Endgame</dc:Title> 
+   <dc:Creator role="aut" file-as="Kristine Smith">Kristine Smith</dc:Creator> 
+   <dc:Publisher>HarperCollins</dc:Publisher> 
+   <dc:Contributor role="author">Kristine Smith</dc:Contributor> 
+   <dc:Date event="publication">2007</dc:Date> 
+   <dc:Identifier id="isbn_9780061788369">978-0-06-178836-9</dc:Identifier> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Language>en</dc:Language> 
+   <dc:Rights>Copyright &#169; 2007 by Kristine Smith</dc:Rights> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{D5744160-CEBB-4773-B086-FBA630323064}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="endgame" href="endgame.html" media-type="text/html" />
+  <item id="RW_~cov0008" href="~cov0008.jpg" media-type="image/jpeg" />
+  <item id="MSRCover" href="MSRCover.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0007" href="~cov0007.jpg" media-type="image/jpeg" />
+  <item id="MSRThumb" href="MSRThumb.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0009" href="~cov0009.jpg" media-type="image/jpeg" />
+  <item id="logo" href="logo.jpg" media-type="image/jpeg" />
+  <item id="pdlmsr" href="pdlmsr.css" media-type="text/css" />
+ </manifest>
+ <spine>
+  <itemref idref="endgame" />
+ </spine>
+ <guide>
+  <reference type="copyright-page" title="Copyright link" href="endgame.html#cop01" />
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="~cov0008.jpg" />
+  <reference type="toc" title="Table of Contents" href="endgame.html#con01" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="MSRCover.jpg" />
+  <reference type="title-page" title="About this title link" href="endgame.html#cop01" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="~cov0007.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="MSRThumb.jpg" />
+  <reference type="other.ms-firstpage" title="Begin reading link" href="endgame.html#text" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="~cov0009.jpg" />
+ </guide>
+</package>
