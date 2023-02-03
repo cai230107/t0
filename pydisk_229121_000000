@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Dick Francis - BoneCrack</dc:Title> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{7BB577DE-59CF-40F7-8C99-771384FF472F}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="Dick_Francis_-_BoneCrack" href="Dick Francis - BoneCrack.html" media-type="text/html" />
+  <item id="RW_~cov0010" href="~cov0010.jpg" media-type="image/jpeg" />
+  <item id="Dick_Francis_-_BoneCrack1" href="Dick Francis - BoneCrack.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0012" href="~cov0012.htm" media-type="text/html" />
+  <item id="RW_~cov0009" href="~cov0009.jpg" media-type="image/jpeg" />
+  <item id="Dick_Francis_-_BoneCrack_Lib" href="Dick Francis - BoneCrack Lib.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0011" href="~cov0011.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="Dick_Francis_-_BoneCrack" />
+ </spine>
+ <guide>
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="~cov0010.jpg" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="Dick Francis - BoneCrack.jpg" />
+  <reference type="title-page" title="About this title link" href="~cov0012.htm" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="~cov0009.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="Dick Francis - BoneCrack Lib.jpg" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="~cov0011.jpg" />
+ </guide>
+</package>
