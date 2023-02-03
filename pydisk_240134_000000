@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Hess, Joan - Claire Malloy 03 - Dear Miss Demeanor</dc:Title> 
+   <dc:Creator role="aut" file-as="scanned by lzmini 2003">scanned by lzmini 2003</dc:Creator> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{A18459BD-AAAB-443C-8721-8243AB2EFE73}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="Hess,_Joan_-_Claire_Malloy_03_-_Dear_Miss_Demeanor" href="Hess, Joan - Claire Malloy 03 - Dear Miss Demeanor.htm" media-type="text/html" />
+  <item id="RW_~cov0026" href="~cov0026.jpg" media-type="image/jpeg" />
+  <item id="dearmissdemeanor" href="dearmissdemeanor.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0028" href="~cov0028.htm" media-type="text/html" />
+  <item id="RW_~cov0025" href="~cov0025.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0027" href="~cov0027.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="Hess,_Joan_-_Claire_Malloy_03_-_Dear_Miss_Demeanor" />
+ </spine>
+ <guide>
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="~cov0026.jpg" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="dearmissdemeanor.jpg" />
+  <reference type="title-page" title="About this title link" href="~cov0028.htm" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="~cov0025.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="dearmissdemeanor.jpg" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="~cov0027.jpg" />
+ </guide>
+</package>
