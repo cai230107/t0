@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<title>Web of the Witch World</title>
+<link type="text/css" rel="stylesheet" href="web.css">
+</head>
+<body>
+<h1 class="chapter">Web of the Witch World</h1>
+
+<h1 class="chapter">A Witch World Novel by Andre Norton</h1>
+
+<h3 class="chapter">Version 1.1</h3>
+
+<div class="center"><img alt="Map" src="webmap.jpg" height="907"
+width="611"></div>
+
+<h1 class="toc">Table of Contents</h1>
+
+<ol compact>
+<li><a href="slide2.html">GAUNTLET THROWN</a></li>
+
+<li><a href="slide3.html">BORDER FORAY</a></li>
+
+<li><a href="slide4.html">BLACK NIGHT</a></li>
+
+<li><a href="slide5.html">FULK AND&mdash;FULK!</a></li>
+
+<li><a href="slide6.html">RED MORNING</a></li>
+
+<li><a href="slide7.html">DUCHESS OF KARSTEN</a></li>
+
+<li><a href="slide8.html">THE HIGH WALLS OF YLE</a></li>
+
+<li><a href="slide9.html">PRINT OF KOLDER</a></li>
+
+<li><a href="slide10.html">TORMAN&rsquo;S LAND</a></li>
+
+<li><a href="slide11.html">JAELITHE FOUND</a></li>
+
+<li><a href="slide12.html">KOLDER KIND</a></li>
+
+<li><a href="slide13.html">SHE WHO WILL NOT WAIT</a></li>
+
+<li><a href="slide14.html">KOLDER NEST</a></li>
+
+<li><a href="slide15.html">WITCH WEAPON</a></li>
+
+<li><a href="slide16.html">MAGIC AND&mdash;MAGIC</a></li>
+
+<li><a href="slide17.html">GATEWAY</a></li>
+
+<li><a href="slide18.html">BLASTED WORLD</a></li>
+
+<li><a href="slide19.html">KOLDER BESIEGED</a></li>
+
+<li><a href="slide20.html">DRINK SWORD&mdash;UP SHIELD</a></li>
+</ol>
+
+<br clear="all">
+<hr>
+<div class="center"><small><a href="slide2.html">next</a></small></div>
+</body>
+</html>
+
