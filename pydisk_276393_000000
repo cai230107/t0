@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Bitten to Death</dc:Title> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{D0A41C78-39CF-45CD-85D2-9CA5D5A34FA9}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="ms-chaptertour" content="chaptertour" />
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="BittentoDeath_copy" href="BittentoDeath_copy.html" media-type="text/html" />
+  <item id="BittentoDeath_toc" href="BittentoDeath_toc.html" media-type="text/html" />
+  <item id="BittentoDeath_fron-1" href="BittentoDeath_fron-1.html" media-type="text/html" />
+  <item id="BittentoDeath_adca-1" href="BittentoDeath_adca-1.html" media-type="text/html" />
+  <item id="BittentoDeath_dedi-1" href="BittentoDeath_dedi-1.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-1" href="BittentoDeath_chap-1.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-2" href="BittentoDeath_chap-2.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-3" href="BittentoDeath_chap-3.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-4" href="BittentoDeath_chap-4.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-5" href="BittentoDeath_chap-5.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-6" href="BittentoDeath_chap-6.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-7" href="BittentoDeath_chap-7.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-8" href="BittentoDeath_chap-8.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-9" href="BittentoDeath_chap-9.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-10" href="BittentoDeath_chap-10.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-11" href="BittentoDeath_chap-11.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-12" href="BittentoDeath_chap-12.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-13" href="BittentoDeath_chap-13.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-14" href="BittentoDeath_chap-14.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-15" href="BittentoDeath_chap-15.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-16" href="BittentoDeath_chap-16.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-17" href="BittentoDeath_chap-17.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-18" href="BittentoDeath_chap-18.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-19" href="BittentoDeath_chap-19.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-20" href="BittentoDeath_chap-20.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-21" href="BittentoDeath_chap-21.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-22" href="BittentoDeath_chap-22.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-23" href="BittentoDeath_chap-23.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-24" href="BittentoDeath_chap-24.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-25" href="BittentoDeath_chap-25.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-26" href="BittentoDeath_chap-26.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-27" href="BittentoDeath_chap-27.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-28" href="BittentoDeath_chap-28.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-29" href="BittentoDeath_chap-29.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-30" href="BittentoDeath_chap-30.html" media-type="text/html" />
+  <item id="BittentoDeath_chap-31" href="BittentoDeath_chap-31.html" media-type="text/html" />
+  <item id="BittentoDeath_ackn-1" href="BittentoDeath_ackn-1.html" media-type="text/html" />
+  <item id="BittentoDeath_appe-1" href="BittentoDeath_appe-1.html" media-type="text/html" />
+  <item id="BittentoDeath_auth-1" href="BittentoDeath_auth-1.html" media-type="text/html" />
+  <item id="BittentoDeath_teas-1" href="BittentoDeath_teas-1.html" media-type="text/html" />
+  <item id="RW_~cov0002" href="~cov0002.jpg" media-type="image/jpeg" />
+  <item id="RW_9780316032919" href="9780316032919.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0004" href="~cov0004.htm" media-type="text/html" />
+  <item id="RW_~cov0001" href="~cov0001.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0003" href="~cov0003.jpg" media-type="image/jpeg" />
+  <item id="bittentodeath_style" href="bittentodeath_style.css" media-type="text/css" />
+  <item id="art_p305" href="art_p305.jpg" media-type="image/jpeg" />
+  <item id="art_p304" href="art_p304.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="BittentoDeath_copy" />
+  <itemref idref="BittentoDeath_toc" />
+  <itemref idref="BittentoDeath_fron-1" />
+  <itemref idref="BittentoDeath_adca-1" />
+  <itemref idref="BittentoDeath_dedi-1" />
+  <itemref idref="BittentoDeath_chap-1" />
+  <itemref idref="BittentoDeath_chap-2" />
+  <itemref idref="BittentoDeath_chap-3" />
+  <itemref idref="BittentoDeath_chap-4" />
+  <itemref idref="BittentoDeath_chap-5" />
+  <itemref idref="BittentoDeath_chap-6" />
+  <itemref idref="BittentoDeath_chap-7" />
+  <itemref idref="BittentoDeath_chap-8" />
+  <itemref idref="BittentoDeath_chap-9" />
+  <itemref idref="BittentoDeath_chap-10" />
+  <itemref idref="BittentoDeath_chap-11" />
+  <itemref idref="BittentoDeath_chap-12" />
+  <itemref idref="BittentoDeath_chap-13" />
+  <itemref idref="BittentoDeath_chap-14" />
+  <itemref idref="BittentoDeath_chap-15" />
+  <itemref idref="BittentoDeath_chap-16" />
+  <itemref idref="BittentoDeath_chap-17" />
+  <itemref idref="BittentoDeath_chap-18" />
+  <itemref idref="BittentoDeath_chap-19" />
+  <itemref idref="BittentoDeath_chap-20" />
+  <itemref idref="BittentoDeath_chap-21" />
+  <itemref idref="BittentoDeath_chap-22" />
+  <itemref idref="BittentoDeath_chap-23" />
+  <itemref idref="BittentoDeath_chap-24" />
+  <itemref idref="BittentoDeath_chap-25" />
+  <itemref idref="BittentoDeath_chap-26" />
+  <itemref idref="BittentoDeath_chap-27" />
+  <itemref idref="BittentoDeath_chap-28" />
+  <itemref idref="BittentoDeath_chap-29" />
+  <itemref idref="BittentoDeath_chap-30" />
+  <itemref idref="BittentoDeath_chap-31" />
+  <itemref idref="BittentoDeath_ackn-1" />
+  <itemref idref="BittentoDeath_appe-1" />
+  <itemref idref="BittentoDeath_auth-1" />
+  <itemref idref="BittentoDeath_teas-1" />
+ </spine>
+ <tours>
+  <tour id="chaptertour" title="Chapter Tour">
+   <site title="Chapter One" href="BittentoDeath_chap-1.html" />
+   <site title="Chapter Two" href="BittentoDeath_chap-2.html" />
+   <site title="Chapter Three" href="BittentoDeath_chap-3.html" />
+   <site title="Chapter Four" href="BittentoDeath_chap-4.html" />
+   <site title="Chapter Five" href="BittentoDeath_chap-5.html" />
+   <site title="Chapter Six" href="BittentoDeath_chap-6.html" />
+   <site title="Chapter Seven" href="BittentoDeath_chap-7.html" />
+   <site title="Chapter Eight" href="BittentoDeath_chap-8.html" />
+   <site title="Chapter Nine" href="BittentoDeath_chap-9.html" />
+   <site title="Chapter Ten" href="BittentoDeath_chap-10.html" />
+   <site title="Chapter Eleven" href="BittentoDeath_chap-11.html" />
+   <site title="Chapter Twelve" href="BittentoDeath_chap-12.html" />
+   <site title="Chapter Thirteen" href="BittentoDeath_chap-13.html" />
+   <site title="Chapter Fourteen" href="BittentoDeath_chap-14.html" />
+   <site title="Chapter Fifteen" href="BittentoDeath_chap-15.html" />
+   <site title="Chapter Sixteen" href="BittentoDeath_chap-16.html" />
+   <site title="Chapter Seventeen" href="BittentoDeath_chap-17.html" />
+   <site title="Chapter Eighteen" href="BittentoDeath_chap-18.html" />
+   <site title="Chapter Nineteen" href="BittentoDeath_chap-19.html" />
+   <site title="Chapter Twenty" href="BittentoDeath_chap-20.html" />
+   <site title="Chapter Twenty-One" href="BittentoDeath_chap-21.html" />
+   <site title="Chapter Twenty-Two" href="BittentoDeath_chap-22.html" />
+   <site title="Chapter Twenty-Three" href="BittentoDeath_chap-23.html" />
+   <site title="Chapter Twenty-Four" href="BittentoDeath_chap-24.html" />
+   <site title="Chapter Twenty-Five" href="BittentoDeath_chap-25.html" />
+   <site title="Chapter Twenty-Six" href="BittentoDeath_chap-26.html" />
+   <site title="Chapter Twenty-Seven" href="BittentoDeath_chap-27.html" />
+   <site title="Chapter Twenty-Eight" href="BittentoDeath_chap-28.html" />
+   <site title="Chapter Twenty-Nine" href="BittentoDeath_chap-29.html" />
+   <site title="Chapter Thirty" href="BittentoDeath_chap-30.html" />
+   <site title="Chapter Thirty-One" href="BittentoDeath_chap-31.html" />
+   <site title="Acknowledgments" href="BittentoDeath_ackn-1.html" />
+   <site title="Meet the Author" href="BittentoDeath_auth-1.html" />
+   <site title="A Preview of &#8220;One More Bite&#8221;" href="BittentoDeath_teas-1.html" />
+  </tour>
+ </tours>
+ <guide>
+  <reference type="copyright-page" title="Copyright link" href="BittentoDeath_copy.html" />
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="~cov0002.jpg" />
+  <reference type="toc" title="Table of Contents" href="BittentoDeath_toc.html" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="9780316032919.jpg" />
+  <reference type="title-page" title="About this title link" href="~cov0004.htm" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="~cov0001.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="9780316032919.jpg" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="~cov0003.jpg" />
+ </guide>
+</package>
