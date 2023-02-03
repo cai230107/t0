@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Black Rose</dc:Title> 
+   <dc:Creator role="aut" file-as="Roberts, Nora">Nora Roberts</dc:Creator> 
+   <dc:Publisher>Penguin </dc:Publisher>
+   <dc:Identifier scheme="ISBN" id="ID1">0-7865-5613-7</dc:Identifier> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{AEE0B606-23F2-49B7-A75D-3067EDB500A3}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="ms-chaptertour" content="chaptertour" />
+   <meta name="rwver-ReaderWorks SDK Control" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-HTML Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-Image Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-Text Input Filter" content="1.0.0.0807 (08/07/2000)" />
+   <meta name="rwver-LIT file generator" content="1.0.0.0131 (05/10/2000)" />
+   <meta name="rw-License Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="BlackRose-copyright" href="BlackRose-copyright.html" media-type="text/html" />
+  <item id="BlackRose-body" href="BlackRose-body.html" media-type="text/html" />
+  <item id="BlackRose-thumb" href="img\BlackRose-thumb.jpg" media-type="image/jpeg" />
+  <item id="BlackRose-toc" href="BlackRose-toc.html" media-type="text/html" />
+  <item id="BlackRose-cover" href="img\BlackRose-cover.jpg" media-type="image/jpeg" />
+  <item id="BlackRose-about" href="BlackRose-about.html" media-type="text/html" />
+  <item id="jove_banner" href="img\jove_banner.jpg" media-type="image/jpeg" />
+  <item id="blackrose" href="blackrose.css" media-type="text/css" />
+  <item id="chapter-art" href="img\chapter-art.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="BlackRose-copyright" />
+  <itemref idref="BlackRose-body" />
+ </spine>
+ <tours>
+  <tour id="chaptertour" title="Chapter Tour">
+   <site title="Prologue  " href="BlackRose-body.html#TOCREF-1" />
+   <site title="One  " href="BlackRose-body.html#TOCREF-2" />
+   <site title="Two  " href="BlackRose-body.html#TOCREF-3" />
+   <site title="Three  " href="BlackRose-body.html#TOCREF-4" />
+   <site title="Four  " href="BlackRose-body.html#TOCREF-5" />
+   <site title="Five  " href="BlackRose-body.html#TOCREF-6" />
+   <site title="Six  " href="BlackRose-body.html#TOCREF-7" />
+   <site title="Seven  " href="BlackRose-body.html#TOCREF-8" />
+   <site title="Eight  " href="BlackRose-body.html#TOCREF-9" />
+   <site title="Nine  " href="BlackRose-body.html#TOCREF-10" />
+   <site title="Ten  " href="BlackRose-body.html#TOCREF-11" />
+   <site title="Eleven  " href="BlackRose-body.html#TOCREF-12" />
+   <site title="Twelve  " href="BlackRose-body.html#TOCREF-13" />
+   <site title="Thirteen  " href="BlackRose-body.html#TOCREF-14" />
+   <site title="Fourteen  " href="BlackRose-body.html#TOCREF-15" />
+   <site title="Fifteen  " href="BlackRose-body.html#TOCREF-16" />
+   <site title="Sixteen  " href="BlackRose-body.html#TOCREF-17" />
+   <site title="Seventeen  " href="BlackRose-body.html#TOCREF-18" />
+   <site title="Eighteen  " href="BlackRose-body.html#TOCREF-19" />
+   <site title="Nineteen  " href="BlackRose-body.html#TOCREF-20" />
+   <site title="Twenty  " href="BlackRose-body.html#TOCREF-21" />
+   <site title="Epilogue  " href="BlackRose-body.html#TOCREF-22" />
+  </tour>
+ </tours>
+ <guide>
+  <reference type="copyright-page" title="Copyright link" href="BlackRose-copyright.html" />
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="img\BlackRose-thumb.jpg" />
+  <reference type="toc" title="Table of Contents" href="BlackRose-toc.html" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="img\BlackRose-cover.jpg" />
+  <reference type="title-page" title="About this title link" href="BlackRose-about.html" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="img\jove_banner.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="img\BlackRose-thumb.jpg" />
+  <reference type="other.ms-firstpage" title="Begin reading link" href="BlackRose-body.html#p1" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="img\BlackRose-thumb.jpg" />
+ </guide>
+</package>
