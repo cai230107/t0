@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC 
+ "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Document//EN"
+ "http://openebook.org/dtds/oeb-1.0.1/oebdoc101.dtd">
+<html>
+ <head>
+  <title>APHRODITE'SPASSION-JULIEKENNER</title>
+  <style type="text/css">
+&lt;!-- body { font-family:
+     "Palatino",
+     serif;
+     text-align: justify;
+     font-size: 100%;  
+     margin-left: 0%; 
+     margin-right: 0%; }
+
+h1 { font-size: 200% ; 
+     text-align: center ; 
+     margin-top: 2em ; 
+     font-weight: 700 ; 
+     text-align: center }  
+h2   { font-size: 175% ; 
+     margin-top: 0em ;  
+     text-align: center ; } 
+h3 { font-size: 150% ;  
+     font-weight: 700 ; 
+     margin-top: 0em ;
+     text-align: center ; }
+p {margin-top: 0.25em ;
+   margin-bottom: 0.25em ;
+   text-indent: 1.3em ;
+   line-height: 1.3em ;
+  }
+
+   --&gt;
+</style>
+ </head>
+ <body>
+  <p style="text-align: center">
+   <br />Other <em>Love Spell</em> books by Julie Kenner:</p>
+  <p style="text-align: center">
+   <br />A MOTHER&#8217;S WAY ROMANCE ANTHOLOGY <br />APHRODITE&#8217;S KISS <br />THE CAT&#8217;S FANCY</p>
+  <br />
+ </body>
+</html>
