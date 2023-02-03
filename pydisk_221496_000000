@@ -1,0 +1,53 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Lt. Leary, Commanding by David Drake - Baen Books</title>
+
+<script language="JavaScript"><!--
+  // This frame remembers the state of all the other frames
+
+  var FrameVersion = '2.0.0.1';
+
+  // enter the Isbn of the book here
+  var isbn = "0671578758";
+
+  // Enter the array of last paragraph numbers by chapter
+  // the first entry is non-zero only if their is a prologue
+
+  var lastPg = new Array(0,2,120,273,370,468,537,653,792,943,1086,1186,1279,1431,1600,1754,1815,1963,2078,2318,2387,2498,2595,2659,2755,2899,3014,3114,3200,3328,3409,3525,3635,3724,3901,3945);
+
+  // Enter the title above
+  var TheBookTitle = document.title;
+
+  // Font selections available
+  var fonts = new Array( "Bookman Old Style,Times New Roman,Georgia,serif",   //SerifFonts
+                         "Lucida Console,Arial,Verdana,Helvetica,sans-serif", //Sans Serif Fonts
+                         "Courier,monospace");                                // Monospace Fonts
+
+  var fnt = fonts[0];
+  var fntIndex = 0;
+
+  var fntSize = "medium";
+  var fntSizeIndex = 3;
+
+//--></script>
+
+</head>
+
+<frameset framespacing="0" border="0" frameborder="0" rows="25,*">
+  <frame name="banner" scrolling="no" noresize marginwidth="0" marginheight="0" src="banner.htm" target="_self">
+  <frameset cols="104,*">
+    <frame name="control" target="main" src="control.htm" marginwidth="0" marginheight="0" scrolling="no" style="padding-left: 0; padding-top: 0">
+    <frame name="main" target="_self" marginwidth="20" marginheight="5" scrolling="auto" src="0671578758___1.htm">
+  </frameset>
+  <noframes>
+  <body>
+
+  <p align="center">This page uses frames, but your browser doesn't support them.<br />
+  &nbsp;<a href="0671578758___1.htm">Click here for frameless version</a></p>
+
+  </body>
+  </noframes>
+</frameset>
+
+</html>
