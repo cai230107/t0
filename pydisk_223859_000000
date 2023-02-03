@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Janet Evanovich - Sp11 - Eleven On Top</dc:Title> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{71FCABB4-A84C-4D2B-98CF-FA0C3B118C04}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="Janet_Evanovich_-_Sp11_-_Eleven_On_Top" href="Janet Evanovich - Sp11 - Eleven On Top.htm" media-type="text/html" />
+  <item id="Janet_Evanovich_-_Sp11_-_Eleven_On_Top1" href="Janet Evanovich - Sp11 - Eleven On Top.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0002" href="~cov0002.htm" media-type="text/html" />
+ </manifest>
+ <spine>
+  <itemref idref="Janet_Evanovich_-_Sp11_-_Eleven_On_Top" />
+ </spine>
+ <guide>
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="Janet Evanovich - Sp11 - Eleven On Top.jpg" />
+  <reference type="title-page" title="About this title link" href="~cov0002.htm" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="Janet Evanovich - Sp11 - Eleven On Top.jpg" />
+ </guide>
+</package>
