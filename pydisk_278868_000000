@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN" "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="DOI-0671319760">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>Gust Front</dc:Title>
+      <dc:Type>Novel</dc:Type>
+      <dc:Identifier id="ISBN-0671319760" scheme="ISBN-Hardcover">0-671-31976-0</dc:Identifier>
+      <dc:Identifier id="ISBN-0743435257" scheme="ISBN-Paperback">0-7434-3525-7</dc:Identifier>
+      <dc:Identifier id="DOI-0671319760" scheme="DOI">10.1125/Baen.0671319760</dc:Identifier>
+      <dc:Publisher>Baen Publishing Enterprises</dc:Publisher>
+      <dc:Creator role="aut" file-as="Ringo, John ">John Ringo</dc:Creator>
+      <dc:Contributor role="art" file-as="Blair, Dru ">Dru Blair</dc:Contributor>
+      <dc:Subject>Science Fiction</dc:Subject>
+      <dc:Rights>2001 by John Ringo</dc:Rights>
+      <dc:Date>2001-04-01</dc:Date>
+      <dc:Language>US English (en-us)</dc:Language>
+    </dc-metadata>
+  </metadata>
+  <manifest>
+    <item id="content" href="0671319760__p_.htm" media-type="text/x-oeb1-document" />
+    <item id="toc" href="0671319760_top.htm" media-type="text/x-oeb1-document" />
+    <item id="coverstandard" href="0671319760_Cover.jpg" media-type="image/jpeg" />
+    <item id="thumbstandard" href="0671319760_Library.jpg" media-type="image/jpeg" />
+    <item id="titlestandard" href="0671319760_Title.jpg" media-type="image/jpeg" />
+    <item id="cover" href="0671319760_PCCover.jpg" media-type="image/jpeg" />
+    <item id="thumb" href="0671319760_PCLibrary.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine>
+    <itemref idref="content" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="0671319760_top.htm" />
+    <reference type="copyright-page" title="Copyright" href="0671319760__p_.htm" />
+    <reference type="title-page" title="Title Page" href="0671319760__p_.htm" />
+    <reference type="other.ms-firstpage" title="first page" href="0671319760__p_.htm#Chap_0" />
+    <reference type="other.ms-coverimage-standard" title="cover image standard" href="0671319760_Cover.jpg" />
+    <reference type="other.ms-thumbimage-standard" title="thumb image standard" href="0671319760_Library.jpg" />
+    <reference type="other.ms-titleimage-standard" title="title image standard" href="0671319760_Title.jpg" />
+    <reference type="other.ms-coverimage" title="PPC cover image" href="0671319760_PCCover.jpg" />
+    <reference type="other.ms-thumbimage" title="PPC thumb image" href="0671319760_PCLibrary.jpg" />
+  </guide>
+</package>
