@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Pyramid Scheme</dc:Title> 
+   <dc:Creator role="aut" file-as="Freer, Dave ">Dave Freer</dc:Creator> 
+   <dc:Creator role="aut" file-as="Flint, Eric ">Eric Flint</dc:Creator> 
+   <dc:Subject>Fantasy</dc:Subject> 
+   <dc:Publisher>Baen Publishing Enterprises</dc:Publisher> 
+   <dc:Contributor role="art" file-as="Eggleton, Bob ">Bob Eggleton</dc:Contributor> 
+   <dc:Date>2001-10</dc:Date> 
+   <dc:Type>Novel</dc:Type> 
+   <dc:Identifier id="ISBN-0-671-31839-X" scheme="ISBN">0-671-31839-X</dc:Identifier> 
+   <dc:Identifier id="10.1125/Baen.0-671-31839-X" scheme="DOI">10.1125/Baen.0-671-31839-X</dc:Identifier> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{7BD0DE15-0200-4792-B02F-B41E93A94767}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="ms-chaptertour" content="chaptertour" />
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="RW_067131839X__p_" href="067131839X__p_.htm" media-type="text/html" />
+  <item id="RW_067131839X_PCLibrary" href="067131839X_PCLibrary.jpg" media-type="image/jpeg" />
+  <item id="RW_067131839X_top" href="067131839X_top.htm" media-type="text/html" />
+  <item id="RW_067131839X_Cover" href="067131839X_Cover.jpg" media-type="image/jpeg" />
+  <item id="RW_067131839X_Title" href="067131839X_Title.jpg" media-type="image/jpeg" />
+  <item id="RW_067131839X_Library" href="067131839X_Library.jpg" media-type="image/jpeg" />
+  <item id="RW_067131839X_PCCover" href="067131839X_PCCover.jpg" media-type="image/jpeg" />
+  <item id="RW_067131839x01" href="067131839x01.jpg" media-type="image/jpeg" />
+  <item id="RW_067131839x02" href="067131839x02.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="RW_067131839X__p_" />
+ </spine>
+ <tours>
+  <tour id="chaptertour" title="Chapter Tour">
+   <site title=" Prologue" href="067131839X__p_.htm#Chap_0" />
+   <site title="PART I" href="067131839X__p_.htm#Chap_1" />
+   <site title="1" href="067131839X__p_.htm#Chap_1" />
+   <site title="2" href="067131839X__p_.htm#Chap_2" />
+   <site title="3" href="067131839X__p_.htm#Chap_3" />
+   <site title="4" href="067131839X__p_.htm#Chap_4" />
+   <site title="5" href="067131839X__p_.htm#Chap_5" />
+   <site title="6" href="067131839X__p_.htm#Chap_6" />
+   <site title="7" href="067131839X__p_.htm#Chap_7" />
+   <site title="8" href="067131839X__p_.htm#Chap_8" />
+   <site title="PART II" href="067131839X__p_.htm#Chap_9" />
+   <site title="9" href="067131839X__p_.htm#Chap_9" />
+   <site title="10" href="067131839X__p_.htm#Chap_10" />
+   <site title="11" href="067131839X__p_.htm#Chap_11" />
+   <site title="12" href="067131839X__p_.htm#Chap_12" />
+   <site title="13" href="067131839X__p_.htm#Chap_13" />
+   <site title="14" href="067131839X__p_.htm#Chap_14" />
+   <site title="PART III" href="067131839X__p_.htm#Chap_15" />
+   <site title="15" href="067131839X__p_.htm#Chap_15" />
+   <site title="16" href="067131839X__p_.htm#Chap_16" />
+   <site title="17" href="067131839X__p_.htm#Chap_17" />
+   <site title="18" href="067131839X__p_.htm#Chap_18" />
+   <site title="19" href="067131839X__p_.htm#Chap_19" />
+   <site title="PART IV" href="067131839X__p_.htm#Chap_20" />
+   <site title="20" href="067131839X__p_.htm#Chap_20" />
+   <site title="21" href="067131839X__p_.htm#Chap_21" />
+   <site title="22" href="067131839X__p_.htm#Chap_22" />
+   <site title="23" href="067131839X__p_.htm#Chap_23" />
+   <site title="PART V" href="067131839X__p_.htm#Chap_24" />
+   <site title="23" href="067131839X__p_.htm#Chap_23" />
+   <site title="25" href="067131839X__p_.htm#Chap_25" />
+   <site title="26" href="067131839X__p_.htm#Chap_26" />
+   <site title="27" href="067131839X__p_.htm#Chap_27" />
+   <site title="PART VI" href="067131839X__p_.htm#Chap_28" />
+   <site title="28" href="067131839X__p_.htm#Chap_28" />
+   <site title="29" href="067131839X__p_.htm#Chap_29" />
+   <site title="30" href="067131839X__p_.htm#Chap_30" />
+   <site title="PART VII" href="067131839X__p_.htm#Chap_31" />
+   <site title="31" href="067131839X__p_.htm#Chap_31" />
+   <site title="32" href="067131839X__p_.htm#Chap_32" />
+   <site title="33" href="067131839X__p_.htm#Chap_33" />
+   <site title="34" href="067131839X__p_.htm#Chap_34" />
+   <site title="35" href="067131839X__p_.htm#Chap_35" />
+   <site title="36" href="067131839X__p_.htm#Chap_36" />
+   <site title="PART VIII" href="067131839X__p_.htm#Chap_37" />
+   <site title="37" href="067131839X__p_.htm#Chap_37" />
+   <site title="38" href="067131839X__p_.htm#Chap_38" />
+   <site title="39" href="067131839X__p_.htm#Chap_39" />
+   <site title="40" href="067131839X__p_.htm#Chap_40" />
+   <site title="41" href="067131839X__p_.htm#Chap_41" />
+   <site title="42" href="067131839X__p_.htm#Chap_42" />
+   <site title="PART IX" href="067131839X__p_.htm#Chap_43" />
+   <site title="43" href="067131839X__p_.htm#Chap_43" />
+   <site title="44" href="067131839X__p_.htm#Chap_44" />
+   <site title="45" href="067131839X__p_.htm#Chap_45" />
+   <site title="46" href="067131839X__p_.htm#Chap_46" />
+   <site title="47" href="067131839X__p_.htm#Chap_47" />
+   <site title="48" href="067131839X__p_.htm#Chap_48" />
+   <site title="PART X" href="067131839X__p_.htm#Chap_49" />
+   <site title="49" href="067131839X__p_.htm#Chap_49" />
+   <site title="50" href="067131839X__p_.htm#Chap_50" />
+   <site title="51" href="067131839X__p_.htm#Chap_51" />
+   <site title="Acknowledgements" href="067131839X__p_.htm#Chap_52" />
+   <site title="APPENDIX" href="067131839X__p_.htm#Chap_53" />
+  </tour>
+ </tours>
+ <guide>
+  <reference type="copyright-page" title="Copyright link" href="067131839X__p_.htm" />
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="067131839X_PCLibrary.jpg" />
+  <reference type="toc" title="Table of Contents" href="067131839X_top.htm" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="067131839X_Cover.jpg" />
+  <reference type="title-page" title="About this title link" href="067131839X__p_.htm" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="067131839X_Title.jpg" />
+  <reference type="other.ms-copyright" href="067131839X__p_.htm" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="067131839X_Library.jpg" />
+  <reference type="other.ms-firstpage" title="Begin reading link" href="067131839X__p_.htm#Chap_0" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="067131839X_PCCover.jpg" />
+ </guide>
+</package>
