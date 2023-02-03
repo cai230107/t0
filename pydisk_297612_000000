@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Destroyer 103: Engines of Destruction</dc:Title> 
+   <dc:Creator role="aut">Beast</dc:Creator> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{A79BB1F7-1E0F-4337-B304-E7A96E14EDAB}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="1.0.1.817 (08/17/2001)" />
+   <meta name="rwver-HTML-Input-Filter" content="1.0.1.0817 (08/17/2001)" />
+   <meta name="rwver-Image-Input-Filter" content="1.0.1.817 (08/17/2001)" />
+   <meta name="rwver-Text-Input-Filter" content="1.0.1.817 (08/17/2001)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPTL" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="Sapir,_Richard___Murphy,_Warren_-_Destroyer_103_-_Engines_Of_Destruction" href="Sapir, Richard %26 Murphy, Warren - Destroyer 103 - Engines Of Destruction.htm" media-type="text/html" />
+  <item id="RW_~Cover01" href="~Cover01.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover02" href="~Cover02.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover03" href="~Cover03.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover04" href="~Cover04.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover05" href="~Cover05.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="Sapir,_Richard___Murphy,_Warren_-_Destroyer_103_-_Engines_Of_Destruction" />
+ </spine>
+ <guide>
+  <reference type="other.ms-thumbimage-standard" href="~Cover01.jpg" />
+  <reference type="other.ms-coverimage-standard" href="~Cover02.jpg" />
+  <reference type="other.ms-titleimage-standard" href="~Cover03.jpg" />
+  <reference type="other.ms-thumbimage" href="~Cover04.jpg" />
+  <reference type="other.ms-coverimage" href="~Cover05.jpg" />
+ </guide>
+</package>
