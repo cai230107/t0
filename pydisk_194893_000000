@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC 
+ "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Document//EN"
+ "http://openebook.org/dtds/oeb-1.0.1/oebdoc101.dtd">
+<html>
+ <head>
+  <title>The Winner</title> 
+  <link rel="stylesheet" href="the_winner-body.html" type="text/x-oeb1-css" />
+  <link rel="stylesheet" href="the_winner-body.html" type="text/css" />
+ </head>
+ <body>
+  <h1 class="about-title">The Winner</h1>
+  <p class="about-author">David Baldacci</p>
+  <p class="about-para-flush">THE DREAM&#160;.&#160;.&#160;. </p>
+  <p class="about-para-indent">She is 20, beautiful, dirt-poor, and hoping for a better life for her infant daughter when LuAnn Tyler is offered the gift of a lifetime: a $100 million lottery jackpot. All she has to do is change her identity and leave the U.S. forever.</p>
+  <p class="about-para-flush">THE KILLER&#160;.&#160;.&#160;. </p>
+  <p class="about-para-indent">It&#8217;s an offer she dares to refuse&#160;.&#160;.&#160;. until violence forces her hand and thrusts her into a harrowing game of high stakes, big money subterfuge. It&#8217;s a price she won&#8217;t fully pay . . . until she does the unthinkable and breaks the promise that made her rich.</p>
+  <p class="about-para-flush">
+   <i>THE WINNER</i>&#160;.&#160;.&#160;. </p>
+  <p class="about-para-indent">For if LuAnn Tyler comes home, she will be pitted against the deadliest contestant of all: the chameleon-like financial mastermind who changed her life. And who can take it away at will&#160;.&#160;.&#160;. </p>
+ </body>
+</html>
