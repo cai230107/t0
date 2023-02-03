@@ -1,0 +1,22 @@
+[PDF]
+Version = 2.0
+
+[Package Definition]
+Name = Dragon NaturallySpeaking 13
+Version = 13.00.000
+Publisher = Nuance Communications Inc.
+Language = English
+Programs = Setup
+MifFileName = Dragon NaturallySpeaking 13.mif
+MifName = Dragon NaturallySpeaking 13
+MifVersion = 13.00.000
+MifPublisher = Nuance Communications Inc.
+
+[Setup]
+Name = Automated Minimum Installation
+CommandLine = msiexec /m "Dragon NaturallySpeaking 13.mif" /qn /I "Dragon NaturallySpeaking 13.msi"
+SupportedClients = Win 9x, Win NT (i386)
+UserInputRequired = False
+RemoveProgram = True
+UnInstallKey = {33EA20FB-5389-4938-BA59-2BCD9BB68F41}
+
