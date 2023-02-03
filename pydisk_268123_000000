@@ -1,0 +1,153 @@
+body { font-family: "Times New Roman", serif; 
+       font-size: 120% ;  
+       margin-left: 5% ; 
+       margin-right: 5% ; 
+}
+
+h1 {font-size: 320% ; 
+    margin-top: 0.5em ; 
+    font-weight: 700 ; 
+    text-align: center ; 
+}  
+
+h2 {font-size: 180% ; 
+    margin-top: 1em ; 
+    margin-bottom: 1em ; 
+    text-align: center ; 
+} 
+
+h3 {font-size: 150% ; 
+    font-weight: 700 ; 
+    margin-top: 1em ; 
+    margin-bottom: 1em ; 
+    text-align: center ; 
+}
+
+h4 {font-size: 165% ; 
+    margin-top: 0em ; 
+    text-align: left ;
+}
+
+h5 {font-size: 140% ; 
+    font-weight: 700 ; 
+    text-align: center ; 
+}
+
+h6 {font-size: 90% ; 
+    font-weight: 700 ; 
+    text-align: center ; 
+    margin-bottom: 1em ; 
+}
+
+p {margin-top: 0.25em ; 
+   margin-bottom: 0.25em ; 
+   text-indent: 1.3em ; 
+   line-height: 1.1em ; 
+   text-align: justify ; 
+}
+
+hr { margin-top: 2em ; 
+     page-break-before: always ; 
+     height : 4px ; 
+     width:75% ; 
+}
+
+.fst { margin-top: 0.25em ; 
+       margin-bottom: 0.25em ; 
+       text-indent: 0em ; 
+       line-height: 1.1em ; 
+       text-align: justify ; 
+}
+
+.fst:first-letter { font-size: 200% ;
+}
+
+/* .fst:first-line {font-variant: small-caps ;}  */
+ 
+.indent { margin-left: 25% ; 
+          text-indent: 0em; 
+          margin-bottom: 0em ; 
+          margin-top: 0em ; 
+}
+
+.sml { font-size: 80%; 
+}
+
+.sml1 { font-size: 80%;
+        text-indent: 0em ; 
+}
+
+.small-caps { font-variant: small-caps ; 
+}
+
+span.small-caps { font-variant: small-caps ; 
+}
+
+.ctr { text-align: center ; 
+}
+
+.ind { text-indent: 5em ; 
+       text-align: center ;
+}
+
+.ind1 { margin-left: 15%; 
+        margin-right: 15% ;
+}
+
+.ind2 { text-indent: 0em ; 
+        margin-left: 15% ; 
+        margin-right: 15% ; 
+        margin-bottom: .5em ;
+}
+.ind3 { text-indent: 0em ; 
+        margin-left: 75% ; 
+        margin-bottom: .5em ; 
+}
+
+.itl { font-style: oblique ; 
+}
+
+.arl { font-family: arial, sans-serif ;
+}
+
+.nml2 { text-indent: 0em ; 
+        margin-bottom: .5em ;
+}
+
+.big {font-size: 320% ; 
+      text-indent: 0em ; 
+      margin-bottom: 15% ; 
+      margin-top: -25% ;
+      text-align: center ;
+}
+
+.big2 {font-size: 140% ; 
+       text-indent: 0em ; 
+       margin-bottom: .5em ; 
+       text-align: center ;
+}
+.flt {float: right ;
+}
+
+.first {margin-top: 0.25em ; 
+        margin-bottom: 0.25em ; 
+        text-indent: 0em ; 
+        line-height: 1.1em ; 
+        text-align: justify ; 
+}
+
+a:link { color: #000080 ;
+         background: transparent ; 
+} 
+
+a:visited { color: #7B68EE  ;
+            background: transparent ; 
+} 
+
+a:hover { color: #ee82ee ;
+          backround: transparent ; 
+}
+
+a:active { color: #ff4500 ; 
+           background: transparent ; 
+}
