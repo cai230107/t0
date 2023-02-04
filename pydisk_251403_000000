@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN" "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="DOI-0743488334">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>Emerald Sea</dc:Title>
+      <dc:Type>Novel</dc:Type>
+      <dc:Identifier id="ISBN-0743488334" scheme="ISBN-Hardcover">0-7434-8833-4</dc:Identifier>
+      <dc:Identifier id="DOI-0743488334" scheme="DOI">10.1125/Baen.0743488334</dc:Identifier>
+      <dc:Publisher>Baen Publishing Enterprises</dc:Publisher>
+      <dc:Creator role="aut" file-as="Ringo, John ">John Ringo</dc:Creator>
+      <dc:Contributor role="art" file-as="Caldwell, Clyde ">Clyde Caldwell</dc:Contributor>
+      <dc:Subject>Science Fiction</dc:Subject>
+      <dc:Rights>2004 by John Ringo</dc:Rights>
+      <dc:Date>2004-07-01</dc:Date>
+      <dc:Language>US English (en-us)</dc:Language>
+    </dc-metadata>
+  </metadata>
+  <manifest>
+    <item id="content" href="0743488334__p_.htm" media-type="text/x-oeb1-document" />
+    <item id="toc" href="0743488334_top.htm" media-type="text/x-oeb1-document" />
+    <item id="coverstandard" href="0743488334_Cover.jpg" media-type="image/jpeg" />
+    <item id="thumbstandard" href="0743488334_Library.jpg" media-type="image/jpeg" />
+    <item id="titlestandard" href="0743488334_Title.jpg" media-type="image/jpeg" />
+    <item id="cover" href="0743488334_PCCover.jpg" media-type="image/jpeg" />
+    <item id="thumb" href="0743488334_PCLibrary.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine>
+    <itemref idref="content" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="0743488334_top.htm" />
+    <reference type="copyright-page" title="Copyright" href="0743488334__p_.htm" />
+    <reference type="title-page" title="Title Page" href="0743488334__p_.htm" />
+    <reference type="other.ms-firstpage" title="first page" href="0743488334__p_.htm#Chap_0" />
+    <reference type="other.ms-coverimage-standard" title="cover image standard" href="0743488334_Cover.jpg" />
+    <reference type="other.ms-thumbimage-standard" title="thumb image standard" href="0743488334_Library.jpg" />
+    <reference type="other.ms-titleimage-standard" title="title image standard" href="0743488334_Title.jpg" />
+    <reference type="other.ms-coverimage" title="PPC cover image" href="0743488334_PCCover.jpg" />
+    <reference type="other.ms-thumbimage" title="PPC thumb image" href="0743488334_PCLibrary.jpg" />
+  </guide>
+</package>
