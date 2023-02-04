@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0 Package//EN" "http://openebook.org/dtds/oeb-1.0/oebpkg1.dtd">
+<package unique-identifier="doi:10.1125/Baen.0-671-31950-7">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>The Chick is in the Mail</dc:Title>
+      <dc:Type>Novel</dc:Type>
+      <dc:Identifier id="ISBN-0-671-31950-7" scheme="ISBN">0-671-31950-7</dc:Identifier>
+      <dc:Identifier id="10.1125/Baen.0-671-31950-7" scheme="DOI">10.1125/Baen.0-671-31950-7</dc:Identifier>
+      <dc:Publisher>Baen Publishing Enterprises</dc:Publisher>
+      <dc:Creator role="aut" file-as="Friesner, Esther ">Esther Friesner</dc:Creator>
+      <dc:Creator role="aut" file-as="Greenberg, Martin Harry ">Martin Harry Greenberg</dc:Creator>
+      <dc:Contributor role="art" file-as="Elmore, Larry ">Larry Elmore</dc:Contributor>
+      <dc:Subject>Fantasy</dc:Subject>
+      <dc:Date>2000-10</dc:Date>
+      dc:Language>US English (en-us)</dc:Language>
+    </dc-metadata>
+  </metadata>
+  <manifest>
+    <item id="content" href="0671319507__p_.htm" media-type="text/x-oeb1-document" />
+    <item id="toc" href="0671319507_top.htm" media-type="text/x-oeb1-document" />
+    <item id="coverstandard" href="0671319507_Cover.jpg" media-type="image/jpeg" />
+    <item id="thumbstandard" href="0671319507_Library.jpg" media-type="image/jpeg" />
+    <item id="titlestandard" href="0671319507_Title.jpg" media-type="image/jpeg" />
+    <item id="cover" href="0671319507_PCCover.jpg" media-type="image/jpeg" />
+    <item id="thumb" href="0671319507_PCLibrary.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine>
+    <itemref idref="content" />
+  </spine>
+  <tours>
+  </tours>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="0671319507_top.htm" />
+    <reference type="other.ms-copyright" title="Copyright" href="0671319507__p_.htm" />
+    <reference type="other.ms-firstpage" title="first page" href="0671319507__p_.htm#Chap_1" />
+    <reference type="other.ms-coverimage-standard" title="cover image standard" href="0671319507_Cover.jpg" />
+    <reference type="other.ms-thumbimage-standard" title="thumb image standard" href="0671319507_Library.jpg" />
+    <reference type="other.ms-titleimage-standard" title="title image standard" href="0671319507_Title.jpg" />
+    <reference type="other.ms-coverimage" title="PPC cover image" href="0671319507_PCCover.jpg" />
+    <reference type="other.ms-thumbimage" title="PPC thumb image" href="0671319507_PCLibrary.jpg" />
+  </guide>
+</package>
