@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Waylander 3 - Hero in the Shadows</dc:Title> 
+   <dc:Creator role="aut">David Gemmell</dc:Creator> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{AB0C26AF-57AC-11D6-A690-444553540000}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="1.0.1.817 (08/17/2001)" />
+   <meta name="rwver-HTML-Input-Filter" content="1.0.1.0817 (08/17/2001)" />
+   <meta name="rwver-Image-Input-Filter" content="1.0.1.817 (08/17/2001)" />
+   <meta name="rwver-Text-Input-Filter" content="1.0.1.817 (08/17/2001)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPTL" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="David_Gemmell_-_[Drenai_-_Waylander_03]_-_Hero_In_The_Shadows" href="David Gemmell - [Drenai - Waylander 03] - Hero In The Shadows.htm" media-type="text/html" />
+  <item id="RW_~Cover01" href="~Cover01.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover02" href="~Cover02.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover03" href="~Cover03.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover04" href="~Cover04.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover05" href="~Cover05.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="David_Gemmell_-_[Drenai_-_Waylander_03]_-_Hero_In_The_Shadows" />
+ </spine>
+ <guide>
+  <reference type="other.ms-thumbimage-standard" href="~Cover01.jpg" />
+  <reference type="other.ms-coverimage-standard" href="~Cover02.jpg" />
+  <reference type="other.ms-titleimage-standard" href="~Cover03.jpg" />
+  <reference type="other.ms-thumbimage" href="~Cover04.jpg" />
+  <reference type="other.ms-coverimage" href="~Cover05.jpg" />
+  <reference type="toc" title="Table of Contents" href="David Gemmell - [Drenai - Waylander 03] - Hero In The Shadows.htm#WordRMR-TOC-Link" />
+ </guide>
+</package>
