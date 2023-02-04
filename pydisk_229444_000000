@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Two Space War</dc:Title> 
+   <dc:Creator role="aut" file-as="Grossman, Dave ">Dave Grossman</dc:Creator> 
+   <dc:Creator role="aut" file-as="Frankowski, Leo ">Leo Frankowski</dc:Creator> 
+   <dc:Subject>Science Fiction</dc:Subject> 
+   <dc:Publisher>Baen Publishing Enterprises</dc:Publisher> 
+   <dc:Contributor role="art" file-as="Kidd, Tom ">Tom Kidd</dc:Contributor> 
+   <dc:Date>2004-02-01</dc:Date> 
+   <dc:Type>Novel</dc:Type> 
+   <dc:Identifier id="ISBN-0743471881" scheme="ISBN-Hardcover">0-7434-7188-1</dc:Identifier> 
+   <dc:Identifier id="DOI-0743471881" scheme="DOI">10.1125/Baen.0743471881</dc:Identifier> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Language>US English (en-us)</dc:Language> 
+   <dc:Rights>2004 by Dave Grossman &amp; Leo Frankowski</dc:Rights> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{B526C86B-432A-44E8-A2E6-DEC25FD986E5}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="ms-chaptertour" content="chaptertour" />
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="RW_0743471881__p_" href="0743471881__p_.htm" media-type="text/html" />
+  <item id="RW_0743471881_PCLibrary" href="0743471881_PCLibrary.jpg" media-type="image/jpeg" />
+  <item id="RW_0743471881_top" href="0743471881_top.htm" media-type="text/html" />
+  <item id="RW_0743471881_Cover" href="0743471881_Cover.jpg" media-type="image/jpeg" />
+  <item id="RW_0743471881_Title" href="0743471881_Title.jpg" media-type="image/jpeg" />
+  <item id="RW_0743471881_Library" href="0743471881_Library.jpg" media-type="image/jpeg" />
+  <item id="RW_0743471881_PCCover" href="0743471881_PCCover.jpg" media-type="image/jpeg" />
+  <item id="RW_074347188106" href="074347188106.jpg" media-type="image/jpeg" />
+  <item id="RW_074347188101" href="074347188101.jpg" media-type="image/jpeg" />
+  <item id="RW_074347188102" href="074347188102.jpg" media-type="image/jpeg" />
+  <item id="RW_074347188103" href="074347188103.jpg" media-type="image/jpeg" />
+  <item id="RW_074347188104" href="074347188104.jpg" media-type="image/jpeg" />
+  <item id="RW_074347188105" href="074347188105.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="RW_0743471881__p_" />
+ </spine>
+ <tours>
+  <tour id="chaptertour" title="Chapter Tour">
+   <site title="Introduction&amp;lt;!--Prologue--&amp;gt;" href="0743471881__p_.htm#Chap_0" />
+   <site title="Chapter the 1st" href="0743471881__p_.htm#Chap_1" />
+   <site title="Chapter the 2nd" href="0743471881__p_.htm#Chap_2" />
+   <site title="Chapter the 3rd" href="0743471881__p_.htm#Chap_3" />
+   <site title="Chapter the 4th" href="0743471881__p_.htm#Chap_4" />
+   <site title="Chapter the 5th" href="0743471881__p_.htm#Chap_5" />
+   <site title="Chapter the 6th " href="0743471881__p_.htm#Chap_6" />
+   <site title="Chapter the 7th" href="0743471881__p_.htm#Chap_7" />
+   <site title="Chapter the 8th" href="0743471881__p_.htm#Chap_8" />
+   <site title="Chapter the 9th" href="0743471881__p_.htm#Chap_9" />
+   <site title="Chapter the 10th" href="0743471881__p_.htm#Chap_10" />
+   <site title="Chapter the 11th" href="0743471881__p_.htm#Chap_11" />
+   <site title="Chapter the 12th" href="0743471881__p_.htm#Chap_12" />
+   <site title="Chapter the 13th" href="0743471881__p_.htm#Chap_13" />
+   <site title="Chapter the 14th" href="0743471881__p_.htm#Chap_14" />
+   <site title="Chapter the 15th" href="0743471881__p_.htm#Chap_15" />
+   <site title="Chapter the 16th" href="0743471881__p_.htm#Chap_16" />
+   <site title="Chapter the 17th" href="0743471881__p_.htm#Chap_17" />
+   <site title="Chapter the 18th" href="0743471881__p_.htm#Chap_18" />
+   <site title="Poetry References" href="0743471881__p_.htm#Chap_19" />
+  </tour>
+ </tours>
+ <guide>
+  <reference type="copyright-page" title="Copyright link" href="0743471881__p_.htm" />
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="0743471881_PCLibrary.jpg" />
+  <reference type="toc" title="Table of Contents" href="0743471881_top.htm" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="0743471881_Cover.jpg" />
+  <reference type="title-page" title="About this title link" href="0743471881__p_.htm" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="0743471881_Title.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="0743471881_Library.jpg" />
+  <reference type="other.ms-firstpage" title="Begin reading link" href="0743471881__p_.htm#Chap_0" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="0743471881_PCCover.jpg" />
+ </guide>
+</package>
