@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Rimrunners</dc:Title> 
+   <dc:Creator role="aut">C J Cherryh</dc:Creator> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{6DD1A85A-8BE0-4E18-A047-9C61AACEB968}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="1.0.1.817 (08/17/2001)" />
+   <meta name="rwver-HTML-Input-Filter" content="1.0.1.0817 (08/17/2001)" />
+   <meta name="rwver-Image-Input-Filter" content="1.0.1.817 (08/17/2001)" />
+   <meta name="rwver-Text-Input-Filter" content="1.0.1.817 (08/17/2001)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPTL" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="CJ_Cherryh_-_Company_Wars_03_-_Rimrunners" href="CJ Cherryh - Company Wars 03 - Rimrunners.htm" media-type="text/html" />
+  <item id="RW_~Cover01" href="~Cover01.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover02" href="~Cover02.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover03" href="~Cover03.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover04" href="~Cover04.jpg" media-type="image/jpeg" />
+  <item id="RW_~Cover05" href="~Cover05.jpg" media-type="image/jpeg" />
+  <item id="image002" href="~export~_files\image002.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="CJ_Cherryh_-_Company_Wars_03_-_Rimrunners" />
+ </spine>
+ <guide>
+  <reference type="other.ms-thumbimage-standard" href="~Cover01.jpg" />
+  <reference type="other.ms-coverimage-standard" href="~Cover02.jpg" />
+  <reference type="other.ms-titleimage-standard" href="~Cover03.jpg" />
+  <reference type="other.ms-thumbimage" href="~Cover04.jpg" />
+  <reference type="other.ms-coverimage" href="~Cover05.jpg" />
+ </guide>
+</package>
