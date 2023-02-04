@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Document//EN" "http://openebook.org/dtds/oeb-1.0.1/oebdoc101.dtd">
+<html  lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>  - Prologue</title>
+<style type="text/css">
+  p {text-indent:2em;margin-top:0;margin-bottom:2px}
+</style>
+
+<meta name="Publisher" content="Baen Books http://www.baen.com" />
+<meta name="Copyright" content="1998 by David Drake" />
+<meta name="author" content="David Drake" />
+<style id="BaenStyle" type="text/css">
+h1 {page-break-before:left}
+</style>
+
+<script language="JavaScript"><!--
+if (parent.control != null)
+  if (typeof(parent.control.mainLoad) == "function")
+    parent.control.mainLoad(document);
+function PNo(PgNo) {
+if (parent.control != null)
+  if (typeof(parent.control.SetPage) == "function")
+    parent.control.document.forms[0].PageNo.value = PgNo;
+}
+//--></script>
+
+</head>
+
+<body >
+<p align="right"><a href="0671578863_toc.htm">Back</a> | <a href="0671578863___1.htm">Next</a><br /><a href="0671578863_toc.htm">Contents</a></p>
+      <img align="left" border="0" hspace="10" src="0671578863.jpg" /><br />
+<h1 align="center"><a name="Chap_0"></a><b>DEDICATION</b></h1><!--Prologue-->
+<a id="p0" name="p0"></a><p onmouseover="PNo(0)" align="center"><b>To A[rielle] Heather Wood</b>&nbsp;</p>
+<a id="p1" name="p1"></a><p onmouseover="PNo(1)" align="center">More widely known as <i>The </i>Heather Wood</p>
+<a id="p2" name="p2"></a><p onmouseover="PNo(2)" align="center"><b>ACKNOWLEDGMENTS</b>&nbsp;</p>
+<a id="p3" name="p3"></a><p onmouseover="PNo(3)" align="center"><b>I'm afraid that I use machines and people very hard when I'm focused on a project. The machines tend to break; the people, my friends, do not. Sincere thanks to Dan Breen; Jim Baen and Toni Weisskopf; Mark L. Van Name and Allyn Vogel; Sandra and John Miesel;</b>&nbsp;</p>
+<a id="p4" name="p4"></a><p onmouseover="PNo(4)" align="center"><b>and my wife Jo.</b>&nbsp;</p>
+<a id="p5" name="p5"></a><p onmouseover="PNo(5)" align="center"><b>A NOTE ON WEIGHT AND MEASURES</b>&nbsp;</p>
+<a id="p6" name="p6"></a><p onmouseover="PNo(6)">As most of my fiction is either set in the far past or the distant future, I regularly face the question of whether to use weights and measures familiar to the reader or instead to reflect the differences that time brings. In this particular case I've decided to use English and metric measurements rather than inventing different but comparable systems.</p>
+<a id="p7" name="p7"></a><p onmouseover="PNo(7)">In my opinion the weights and measures of thousands of years in the future will differ as strikingly from those of today as the latter do from the talents and stades familiar to classical Greeks. Those future systems may well vary among themselves as confusingly as the Euboic and Aeginetic standards did. But while I hope a reader may learn something from this novel as well as being entertained, the state of the world isn't going to be improved by me inventing phony measurement systems.</p>
+<a id="p8" name="p8"></a><p onmouseover="PNo(8)">&#160;</p>
+<blockquote>
+<a id="p9" name="p9"></a><p onmouseover="PNo(9)" style="text-indent:0"><b>Me that 'ave followed my trade</b><br /><b>In the place where the Lightnin's are made&#160;...</b>&nbsp;</p>
+</blockquote>
+<a id="p10" name="p10"></a><p onmouseover="PNo(10)" align="right"><b>&#151;Kipling</b>&nbsp;</p>
+<p align="right"><a href="0671578863_toc.htm">Back</a> | <a href="0671578863___1.htm">Next</a><br /><a href="0671578863_toc.htm">Contents</a>
+<br /><a href="0671578863.htm" target="_top">Framed</a></p>
+
+</body>
+</html>
