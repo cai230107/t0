@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>Dick Francis - Rat Race</dc:Title> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{D2EE1D93-B273-4214-8BCA-183E8DBCA42A}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="Dick_Francis_-_Rat_Race" href="Dick Francis - Rat Race.htm" media-type="text/html" />
+  <item id="Dick_Francis_-_Rat_Race1" href="Dick Francis - Rat Race.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0007" href="~cov0007.htm" media-type="text/html" />
+ </manifest>
+ <spine>
+  <itemref idref="Dick_Francis_-_Rat_Race" />
+ </spine>
+ <guide>
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="Dick Francis - Rat Race.jpg" />
+  <reference type="title-page" title="About this title link" href="~cov0007.htm" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="Dick Francis - Rat Race.jpg" />
+ </guide>
+</package>
