@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE package 
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+  "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+ <metadata>
+  <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+   <dc:Title>The Ape Who Guards the Balance</dc:Title> 
+   <dc:Creator role="aut" file-as="Peters, Elizabeth">Elizabeth Peters</dc:Creator> 
+   <dc:Identifier scheme="ISBN" id="ID1">0060523247</dc:Identifier> 
+   <dc:Language>en-us</dc:Language> 
+   <dc:Identifier id="OverDriveGUID" scheme="GUID">{01A5BBDF-9105-421E-A25E-DD74B95E18F1}</dc:Identifier> 
+  </dc-metadata>
+  <x-metadata>
+   <meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+   <meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+   <meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+   <meta name="rw-License-Key" content="RWPUB" />
+  </x-metadata>
+ </metadata>
+ <manifest>
+  <item id="RW_52316_Ape_Who_Guards_The_Balance" href="52316_Ape Who Guards The Balance.htm" media-type="text/html" />
+  <item id="RW_52316landscape_thumb" href="52316landscape_thumb.jpg" media-type="image/jpeg" />
+  <item id="RW_52316full_size" href="52316full_size.jpg" media-type="image/jpeg" />
+  <item id="RW_~cov0001" href="~cov0001.htm" media-type="text/html" />
+  <item id="RW_52316spine" href="52316spine.jpg" media-type="image/jpeg" />
+  <item id="RW_52316full_size_thumb" href="52316full_size_thumb.jpg" media-type="image/jpeg" />
+  <item id="RW_52316landscape" href="52316landscape_thumb.jpg" media-type="image/jpeg" />
+  <item id="RW_52316_ape_who_guards_the_balance_footnotes" href="52316_ape who guards the balance_footnotes.htm" media-type="text/html" />
+  <item id="RW_52316_ape_who_guards_the_balance1" href="52316_ape who guards the balance.css" media-type="text/css" />
+  <item id="perfectbound_logo_final_w_o" href="perfectbound logo final w_o.jpg" media-type="image/jpeg" />
+  <item id="excerpt" href="excerpt.jpg" media-type="image/jpeg" />
+  <item id="map_right" href="map_right.jpg" media-type="image/jpeg" />
+  <item id="map_left" href="map_left.jpg" media-type="image/jpeg" />
+  <item id="title" href="title.jpg" media-type="image/jpeg" />
+ </manifest>
+ <spine>
+  <itemref idref="RW_52316_Ape_Who_Guards_The_Balance" />
+ </spine>
+ <guide>
+  <reference type="copyright-page" title="Copyright link" href="52316_Ape Who Guards The Balance.htm#copy" />
+  <reference type="toc" title="Table of Contents" href="52316_Ape Who Guards The Balance.htm#toc" />
+  <reference type="other.ms-thumbimage" title="Pocket PC library image" href="52316landscape_thumb.jpg" />
+  <reference type="other.ms-coverimage-standard" title="Cover image" href="52316full_size.jpg" />
+  <reference type="title-page" title="About this title link" href="~cov0001.htm" />
+  <reference type="other.ms-titleimage-standard" title="Cover page image" href="52316spine.jpg" />
+  <reference type="other.ms-thumbimage-standard" title="Library image" href="52316full_size_thumb.jpg" />
+  <reference type="other.ms-firstpage" title="Begin reading link" href="52316_Ape Who Guards The Balance.htm#ch1" />
+  <reference type="other.ms-coverimage" title="Pocket PC cover image" href="52316landscape_thumb.jpg" />
+ </guide>
+</package>
