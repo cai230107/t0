@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE package PUBLIC 
+    "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+    "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+<metadata>
+<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+<dc:Title>Ilium</dc:Title>
+<dc:Creator role="aut" file-as="Simmons, Dan">Dan Simmons</dc:Creator>
+<dc:Identifier scheme="ISBN" id="ID1">0060599863</dc:Identifier>
+<dc:Language>en-us</dc:Language>
+<dc:Identifier id="OverDriveGUID" scheme="GUID">{3F1DF0FB-971F-4482-9641-BB2A3C61622F}</dc:Identifier>
+</dc-metadata>
+<x-metadata>
+<meta name="rwver-ReaderWorks-SDK-Control" content="2.0.1.1220 (12/20/2001)" />
+<meta name="rwver-HTML-Input-Filter" content="2.0.1.1210 (12/10/2001)" />
+<meta name="rwver-Image-Input-Filter" content="2.0.1.1210 (12/10/2001)" />
+<meta name="rwver-Text-Input-Filter" content="2.0.1.1210 (12/10/2001)" />
+<meta name="rwver-Word-Doc-Input-Filter" content="2.0.1.1210 (12/10/2001)" />
+<meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+<meta name="rw-License-Key" content="RWPUB" />
+</x-metadata>
+</metadata>
+<manifest>
+<item id="RW_87998_Ilium" href="87998_Ilium.htm" media-type="text/html" />
+<item id="RW_87998_landscape_thumb" href="87998_landscape_thumb.jpg" media-type="image/jpeg" />
+<item id="RW_87998_fullsize" href="87998_fullsize.jpg" media-type="image/jpeg" />
+<item id="RW_~cov0001" href="~cov0001.htm" media-type="text/html" />
+<item id="RW_87998_spine" href="87998_spine.jpg" media-type="image/jpeg" />
+<item id="RW_87998_fullsize_thumb" href="87998_fullsize_thumb.jpg" media-type="image/jpeg" />
+<item id="RW_87998_landscape" href="87998_landscape_thumb.jpg" media-type="image/jpeg" />
+<item id="perfectbound_logo_final_w_o" href="perfectbound logo final w_o.jpg" media-type="image/jpeg" />
+<item id="RW_87998_ilium1" href="87998_ilium.css" media-type="text/css" />
+<item id="ding" href="ding.jpg" media-type="image/jpeg" />
+<item id="title" href="title.jpg" media-type="image/jpeg" />
+</manifest>
+<spine>
+<itemref idref="RW_87998_Ilium" />
+</spine>
+<guide>
+<reference type="copyright-page" title="Copyright link" href="87998_Ilium.htm#copy" />
+<reference type="other.ms-thumbimage" title="Pocket PC library image" href="87998_landscape_thumb.jpg" />
+<reference type="toc" title="Table of Contents" href="87998_Ilium.htm#toc" />
+<reference type="other.ms-coverimage-standard" title="Cover image" href="87998_fullsize.jpg" />
+<reference type="title-page" title="About this title link" href="~cov0001.htm" />
+<reference type="other.ms-titleimage-standard" title="Cover page image" href="87998_spine.jpg" />
+<reference type="other.ms-thumbimage-standard" title="Library image" href="87998_fullsize_thumb.jpg" />
+<reference type="other.ms-firstpage" title="Begin reading link" href="87998_Ilium.htm" />
+<reference type="other.ms-coverimage" title="Pocket PC cover image" href="87998_landscape_thumb.jpg" />
+</guide>
+</package>
