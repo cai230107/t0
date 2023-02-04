@@ -1,0 +1,53 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Sympathy for the Devil by Holly Lisle - Baen Books</title>
+
+<script language="JavaScript"><!--
+  // This frame remembers the state of all the other frames
+
+  var FrameVersion = '2.0.0.1';
+
+  // enter the Isbn of the book here
+  var isbn = "0671877038";
+
+  // Enter the array of last paragraph numbers by chapter
+  // the first entry is non-zero only if their is a prologue
+
+  var lastPg = new Array(0,8,65,74,83,111,156,172,179,187,286,319,367,413,442,478,489,498,604,625,688,722,772,804,818,824,889,917,960,983,1001,1054,1078,1178,1317,1361,1429,1456,1472,1489,1516,1540,1586,1602,1692,1739,1753,1772,1777);
+
+  // Enter the title above
+  var TheBookTitle = document.title;
+
+  // Font selections available
+  var fonts = new Array( "Bookman Old Style,Times New Roman,Georgia,serif",   //SerifFonts
+                         "Lucida Console,Arial,Verdana,Helvetica,sans-serif", //Sans Serif Fonts
+                         "Courier,monospace");                                // Monospace Fonts
+
+  var fnt = fonts[0];
+  var fntIndex = 0;
+
+  var fntSize = "medium";
+  var fntSizeIndex = 3;
+
+//--></script>
+
+</head>
+
+<frameset framespacing="0" border="0" frameborder="0" rows="25,*">
+  <frame name="banner" scrolling="no" noresize marginwidth="0" marginheight="0" src="banner.htm" target="_self">
+  <frameset cols="104,*">
+    <frame name="control" target="main" src="control.htm" marginwidth="0" marginheight="0" scrolling="no" style="padding-left: 0; padding-top: 0">
+    <frame name="main" target="_self" marginwidth="20" marginheight="5" scrolling="auto" src="0671877038___1.htm">
+  </frameset>
+  <noframes>
+  <body>
+
+  <p align="center">This page uses frames, but your browser doesn't support them.<br />
+  &nbsp;<a href="0671877038___1.htm">Click here for frameless version</a></p>
+
+  </body>
+  </noframes>
+</frameset>
+
+</html>
